@@ -1,1 +1,12 @@
-{"dia": 0, "personajes_usados": []}
+{
+    "dia": 1,
+    "personajes_usados": [
+        "95"
+    ],
+    "ultima_fecha": "2026-10-07",
+    "ultimo_mensaje": {
+        "id": "1557504882045485177",
+        "nombre": "Mercy",
+        "dia": 1
+    }
+}
