@@ -1,16 +1,15 @@
 name: Publicar personaje diario
 
 on:
-  schedule:
-    # 15:07 UTC = 12:07 en Argentina (UTC-3, sin horario de verano).
-    # GitHub puede demorar los cron de 15 a 60 minutos o más: es normal.
-    - cron: "7 15 * * *"
   workflow_dispatch:
     inputs:
       forzar:
         description: "Publicar aunque ya se haya publicado hoy"
         type: boolean
         default: false
+
+  repository_dispatch:
+    types: [publicar-personaje]
 
 permissions:
   contents: write
