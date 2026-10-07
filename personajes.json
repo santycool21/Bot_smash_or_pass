@@ -1,0 +1,2198 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tifa Lockhart",
+        "edad": 20,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b758-3QZhbFVMajHC.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Cloud Strife",
+        "edad": 21,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b456-aqvvhzG5aUXV.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Aerith Gainsborough",
+        "edad": 22,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b757-XgHQOxpK4L6k.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Barret Wallace",
+        "edad": 35,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2933-oGfZYXEOYUAi.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Cid Highwind",
+        "edad": 32,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/2930.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Lightning",
+        "edad": 21,
+        "primera_aparicion": "Final Fantasy XIII",
+        "anio": 2009,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b312-QZ0Jv451096U.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Leon S. Kennedy",
+        "edad": 21,
+        "primera_aparicion": "Resident Evil 2",
+        "anio": 1998,
+        "franquicia": "Resident Evil",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdlFxUxpCFy5guj3F22j9jYPB-sDZ5Y-IAJ14_A7CHDnTNpo1wx9QNeg&s=10"
+    },
+    {
+        "id": 8,
+        "nombre": "Jill Valentine",
+        "edad": 23,
+        "primera_aparicion": "Resident Evil",
+        "anio": 1996,
+        "franquicia": "Resident Evil",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12664-eVuO8OpCf1EO.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Albert Wesker",
+        "edad": 38,
+        "primera_aparicion": "Resident Evil",
+        "anio": 1996,
+        "franquicia": "Resident Evil",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12665-vn3A3Bw3gA7m.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Solid Snake",
+        "edad": 33,
+        "primera_aparicion": "Metal Gear",
+        "anio": 1987,
+        "franquicia": "Metal Gear",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b272535-MdATaTz715Kx.png"
+    },
+    {
+        "id": 11,
+        "nombre": "Master Chief",
+        "edad": 41,
+        "primera_aparicion": "Halo: Combat Evolved",
+        "anio": 2001,
+        "franquicia": "Halo",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/20842.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Lara Croft",
+        "edad": "21 (reboot) / ~28 (saga clásica)",
+        "primera_aparicion": "Tomb Raider",
+        "anio": 1996,
+        "franquicia": "Tomb Raider",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/x8dvko1lp7rqv3bx3rpr.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Vincent Valentine",
+        "edad": 27,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/2321.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Sephiroth",
+        "edad": 27,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1816-dUWCJJq7bKL7.png"
+    },
+    {
+        "id": 15,
+        "nombre": "Reno",
+        "edad": 26,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2860-AvuGBukL38Bq.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Tseng",
+        "edad": 28,
+        "primera_aparicion": "Final Fantasy VII",
+        "anio": 1997,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/4459.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Lulu",
+        "edad": 22,
+        "primera_aparicion": "Final Fantasy X",
+        "anio": 2001,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+    },
+    {
+        "id": 18,
+        "nombre": "Auron",
+        "edad": 33,
+        "primera_aparicion": "Final Fantasy X",
+        "anio": 2001,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/52817.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Ashe",
+        "edad": 19,
+        "primera_aparicion": "Final Fantasy XII",
+        "anio": 2006,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://cdn.mobygames.com/promos/10513924-final-fantasy-xii-render-ashe.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Balthier",
+        "edad": 27,
+        "primera_aparicion": "Final Fantasy XII",
+        "anio": 2006,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/32628.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Noctis Lucis Caelum",
+        "edad": 20,
+        "primera_aparicion": "Final Fantasy XV",
+        "anio": 2016,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n121313-ceRcU6wm8gtH.png"
+    },
+    {
+        "id": 22,
+        "nombre": "Ignis Scientia",
+        "edad": 22,
+        "primera_aparicion": "Final Fantasy XV",
+        "anio": 2016,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/121314-ZU3AlsYu43aw.png"
+    },
+    {
+        "id": 23,
+        "nombre": "Gladiolus Amicitia",
+        "edad": 23,
+        "primera_aparicion": "Final Fantasy XV",
+        "anio": 2016,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/121315-Txx8dUr6eXQV.png"
+    },
+    {
+        "id": 24,
+        "nombre": "Clive Rosfield",
+        "edad": 23,
+        "primera_aparicion": "Final Fantasy XVI",
+        "anio": 2023,
+        "franquicia": "Final Fantasy",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSljl_1AuuR3eRjyZaazwJsgtwOPMJ62R5fIwh6qBlQg1kz0su9cP867GDH&s=10"
+    },
+    {
+        "id": 25,
+        "nombre": "Claire Redfield",
+        "edad": 19,
+        "primera_aparicion": "Resident Evil 2",
+        "anio": 1998,
+        "franquicia": "Resident Evil",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b15802-bgayDXDYT9kP.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Chris Redfield",
+        "edad": 25,
+        "primera_aparicion": "Resident Evil",
+        "anio": 1996,
+        "franquicia": "Resident Evil",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12663-sktthqVtcrQW.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Ada Wong",
+        "edad": 30,
+        "primera_aparicion": "Resident Evil 2",
+        "anio": 1998,
+        "franquicia": "Resident Evil",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/35551.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Sheva Alomar",
+        "edad": 25,
+        "primera_aparicion": "Resident Evil 5",
+        "anio": 2009,
+        "franquicia": "Resident Evil",
+        "imagen": "https://static.wikia.nocookie.net/residentevil/images/b/b2/Sheva_ShotgunJF.jpg/revision/latest/thumbnail/width/360/height/360?cb=20151225214150&path-prefix=es"
+    },
+    {
+        "id": 29,
+        "nombre": "Ashley Graham",
+        "edad": 20,
+        "primera_aparicion": "Resident Evil 4",
+        "anio": 2005,
+        "franquicia": "Resident Evil",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b146257-7kTBSqPrmggV.png"
+    },
+    {
+        "id": 30,
+        "nombre": "Alcina Dimitrescu",
+        "edad": 48,
+        "primera_aparicion": "Resident Evil Village",
+        "anio": 2021,
+        "franquicia": "Resident Evil",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b246035-6sVQWWFZsBpn.png"
+    },
+    {
+        "id": 31,
+        "nombre": "Ethan Winters",
+        "edad": 32,
+        "primera_aparicion": "Resident Evil 7",
+        "anio": 2017,
+        "franquicia": "Resident Evil",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0qUdPLguJGrgQFxeuQvdGWeXoGDu6Od4_2Y5p2EJN9OXUB1D6Dq5vOAZ&s=10"
+    },
+    {
+        "id": 32,
+        "nombre": "Jake Muller",
+        "edad": 23,
+        "primera_aparicion": "Resident Evil 6",
+        "anio": 2012,
+        "franquicia": "Resident Evil",
+        "imagen": "https://static.wikia.nocookie.net/capcomdatabase/images/2/22/RE6_Jake_Muller.png/revision/latest?cb=20130501181342"
+    },
+    {
+        "id": 33,
+        "nombre": "Raiden",
+        "edad": 22,
+        "primera_aparicion": "Metal Gear Solid 2",
+        "anio": 2001,
+        "franquicia": "Metal Gear",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b272948-ZzW7nDQcDrha.png"
+    },
+    {
+        "id": 34,
+        "nombre": "Meryl Silverburgh",
+        "edad": 23,
+        "primera_aparicion": "Metal Gear Solid",
+        "anio": 1998,
+        "franquicia": "Metal Gear",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/cm33o.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "Revolver Ocelot",
+        "edad": 32,
+        "primera_aparicion": "Metal Gear Solid",
+        "anio": 1998,
+        "franquicia": "Metal Gear",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b266379-knNhRCFOWPxE.png"
+    },
+    {
+        "id": 36,
+        "nombre": "Sniper Wolf",
+        "edad": 30,
+        "primera_aparicion": "Metal Gear Solid",
+        "anio": 1998,
+        "franquicia": "Metal Gear",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/cm33z.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "Otacon",
+        "edad": 29,
+        "primera_aparicion": "Metal Gear Solid",
+        "anio": 1998,
+        "franquicia": "Metal Gear",
+        "imagen": "https://static.wikia.nocookie.net/p__/images/6/64/Halemmerich.png/revision/latest?cb=20200213195400&path-prefix=protagonist"
+    },
+    {
+        "id": 38,
+        "nombre": "Big Boss",
+        "edad": 40,
+        "primera_aparicion": "Metal Gear",
+        "anio": 1987,
+        "franquicia": "Metal Gear",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b308161-HvElhlKFKU3C.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "Quiet",
+        "edad": 28,
+        "primera_aparicion": "Metal Gear Solid V",
+        "anio": 2015,
+        "franquicia": "Metal Gear",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/17994.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "Commander Shepard",
+        "edad": 30,
+        "primera_aparicion": "Mass Effect",
+        "anio": 2007,
+        "franquicia": "Mass Effect",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/lnozdao4v2rzjbpvatfx.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "Liara T'Soni",
+        "edad": 106,
+        "primera_aparicion": "Mass Effect",
+        "anio": 2007,
+        "franquicia": "Mass Effect",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75810-x7hWEu5fm7SR.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Miranda Lawson",
+        "edad": 31,
+        "primera_aparicion": "Mass Effect 2",
+        "anio": 2010,
+        "franquicia": "Mass Effect",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/sdmb6hrmriv5qaq0s2ot.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "Garrus Vakarian",
+        "edad": 28,
+        "primera_aparicion": "Mass Effect",
+        "anio": 2007,
+        "franquicia": "Mass Effect",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/tdfgjxuzv06nzdd99h6l.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Tali'Zorah",
+        "edad": 22,
+        "primera_aparicion": "Mass Effect",
+        "anio": 2007,
+        "franquicia": "Mass Effect",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlN2hyZ892q7E-1kYEATH2U6x12g1_wC_ob3iW5uX9-pyM46Ce4LOPwCbY&s=10"
+    },
+    {
+        "id": 45,
+        "nombre": "Jack",
+        "edad": 27,
+        "primera_aparicion": "Mass Effect 2",
+        "anio": 2010,
+        "franquicia": "Mass Effect",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmI-EE_evQQP7eynMmY-Lb06JXfWyYbCKOQKdCwbKy7s1vcAYXh3TvOx5&s=10"
+    },
+    {
+        "id": 46,
+        "nombre": "Morrigan",
+        "edad": 28,
+        "primera_aparicion": "Dragon Age: Origins",
+        "anio": 2009,
+        "franquicia": "Dragon Age",
+        "imagen": "https://cdn.renderhub.com/merade/morrigan-for-genesis-8-and-8-1-female/morrigan-for-genesis-8-and-8-1-female-02.jpg"
+    },
+    {
+        "id": 47,
+        "nombre": "Alistair",
+        "edad": 24,
+        "primera_aparicion": "Dragon Age: Origins",
+        "anio": 2009,
+        "franquicia": "Dragon Age",
+        "imagen": "https://i.pinimg.com/474x/90/22/0d/90220d49c9e7c087e894b7cf5eefa2d5.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "Zevran Arainai",
+        "edad": 27,
+        "primera_aparicion": "Dragon Age: Origins",
+        "anio": 2009,
+        "franquicia": "Dragon Age",
+        "imagen": "https://static.wikia.nocookie.net/da2risingtide/images/a/a8/Zevran.png/revision/latest?cb=20110617041647"
+    },
+    {
+        "id": 49,
+        "nombre": "Fenris",
+        "edad": 28,
+        "primera_aparicion": "Dragon Age II",
+        "anio": 2011,
+        "franquicia": "Dragon Age",
+        "imagen": "https://i.pinimg.com/736x/1e/55/ed/1e55ed14b74cb8b4aace1f0617251916.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "Geralt de Rivia",
+        "edad": 100,
+        "primera_aparicion": "The Witcher",
+        "anio": 2007,
+        "franquicia": "The Witcher",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4bba41e-2420-42ec-8c4f-95844dd273dc/di3ni8j-f88dc959-8652-4ef3-a308-e85035f1cf7b.png/v1/fill/w_894,h_894/geralt_of_rivia_the_witcher_render_by_eternalashen_di3ni8j-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiIvZi9iNGJiYTQxZS0yNDIwLTQyZWMtOGM0Zi05NTg0NGRkMjczZGMvZGkzbmk4ai1mODhkYzk1OS04NjUyLTRlZjMtYTMwOC1lODUwMzVmMWNmN2IucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.KUHQvsJcFL-02Q2A-L4CAt1OzgpN9_OtCvM1lkyYrDY"
+    },
+    {
+        "id": 51,
+        "nombre": "Yennefer de Vengerberg",
+        "edad": 95,
+        "primera_aparicion": "The Witcher 3",
+        "anio": 2015,
+        "franquicia": "The Witcher",
+        "imagen": "https://c4.wallpaperflare.com/wallpaper/104/814/326/video-games-yennefer-of-vengerberg-the-witcher-3-wild-hunt-wallpaper-preview.jpg"
+    },
+    {
+        "id": 52,
+        "nombre": "Triss Merigold",
+        "edad": 33,
+        "primera_aparicion": "The Witcher",
+        "anio": 2007,
+        "franquicia": "The Witcher",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/jec1fydhokwngsgfypix.jpg"
+    },
+    {
+        "id": 53,
+        "nombre": "V (Valerie)",
+        "edad": 28,
+        "primera_aparicion": "Cyberpunk 2077",
+        "anio": 2020,
+        "franquicia": "Cyberpunk",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca64ff24-f1d2-41ec-a658-7fab1915bb2a/ddx8frz-fcb0d7cb-5357-4948-a5d2-2cf27ca4739c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jYTY0ZmYyNC1mMWQyLTQxZWMtYTY1OC03ZmFiMTkxNWJiMmEvZGR4OGZyei1mY2IwZDdjYi01MzU3LTQ5NDgtYTVkMi0yY2YyN2NhNDczOWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.V-h41CPL4x5aBNWUMsgbOuJiCX7oqJnq1fSLfjclWSQ"
+    },
+    {
+        "id": 54,
+        "nombre": "Judy Alvarez",
+        "edad": 25,
+        "primera_aparicion": "Cyberpunk 2077",
+        "anio": 2020,
+        "franquicia": "Cyberpunk",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f83e3ea-1507-479c-a3a5-236121b246dc/dep6nbn-50fcfeab-e9a5-4947-ae29-d3eca8b979bb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8yZjgzZTNlYS0xNTA3LTQ3OWMtYTNhNS0yMzYxMjFiMjQ2ZGMvZGVwNm5ibi01MGZjZmVhYi1lOWE1LTQ5NDctYWUyOS1kM2VjYThiOTc5YmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.utwrqoGn8aBIQrKQRFRd5HWs0sGbc9989EHSLKHLCE8"
+    },
+    {
+        "id": 55,
+        "nombre": "Panam Palmer",
+        "edad": 25,
+        "primera_aparicion": "Cyberpunk 2077",
+        "anio": 2020,
+        "franquicia": "Cyberpunk",
+        "imagen": "https://render-state.to/wp-content/uploads/2022/08/Panam-Palmer-Cyberpunk-2077.jpg"
+    },
+    {
+        "id": 56,
+        "nombre": "Johnny Silverhand",
+        "edad": 34,
+        "primera_aparicion": "Cyberpunk 2077",
+        "anio": 2020,
+        "franquicia": "Cyberpunk",
+        "imagen": "https://static.wikia.nocookie.net/cyberpunk/images/d/de/Johnny_Silverhand_Database_CP2077.png/revision/latest?cb=20231003222545"
+    },
+    {
+        "id": 57,
+        "nombre": "River Ward",
+        "edad": 34,
+        "primera_aparicion": "Cyberpunk 2077",
+        "anio": 2020,
+        "franquicia": "Cyberpunk",
+        "imagen": "https://render-state.to/wp-content/uploads/2022/09/River-Ward-Cyberpunk-2077.jpg"
+    },
+    {
+        "id": 58,
+        "nombre": "Astarion",
+        "edad": 235,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfy3xnGJV-QaTEjuKLyHF4wVuZTlQ-lSunN4c9YfOwD8_IAQhJOTyabhR&s=10"
+    },
+    {
+        "id": 59,
+        "nombre": "Shadowheart",
+        "edad": 30,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://i.pinimg.com/originals/fa/7e/83/fa7e837179135328f582b6c53c8479ee.png"
+    },
+    {
+        "id": 60,
+        "nombre": "Karlach",
+        "edad": 30,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://static.wikia.nocookie.net/forgottenrealms/images/0/06/Karlach_Full_Promo.png/revision/latest/thumbnail/width/360/height/360?cb=20231013091413"
+    },
+    {
+        "id": 61,
+        "nombre": "Lae'zel",
+        "edad": 30,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fTs3wxVIDDA5rBtdWprTC0-TTnP_mq0ODwxxe7UlLP7_HgY-GEu13B26&s=10"
+    },
+    {
+        "id": 62,
+        "nombre": "Gale of Waterdeep",
+        "edad": 32,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://static.wikia.nocookie.net/forgottenrealms/images/b/bc/Gale_Dekarios_character_art_bg3.png/revision/latest?cb=20231013091200"
+    },
+    {
+        "id": 63,
+        "nombre": "Wyll Ravengard",
+        "edad": 30,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQMeZxZ24WCN0_tIxhQg_mCQXCWQrmp2cK34UhJAceRW2A2-19lMDocE&s=10"
+    },
+    {
+        "id": 64,
+        "nombre": "Minthara",
+        "edad": 35,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://bg3.wiki/w/images/e/e1/Minthara-face2023.jpg"
+    },
+    {
+        "id": 65,
+        "nombre": "Halsin",
+        "edad": 90,
+        "primera_aparicion": "Baldur's Gate 3",
+        "anio": 2023,
+        "franquicia": "Baldur's Gate",
+        "imagen": "https://static.wikia.nocookie.net/forgottenrealms/images/f/fe/Halsin_2024_promo.jpg/revision/latest/scale-to-width-down/1200?cb=20241218163917"
+    },
+    {
+        "id": 66,
+        "nombre": "Chun-Li",
+        "edad": 29,
+        "primera_aparicion": "Street Fighter II",
+        "anio": 1991,
+        "franquicia": "Street Fighter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png"
+    },
+    {
+        "id": 67,
+        "nombre": "Ryu",
+        "edad": 23,
+        "primera_aparicion": "Street Fighter",
+        "anio": 1987,
+        "franquicia": "Street Fighter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67325-yPkbZJkofp5w.jpg"
+    },
+    {
+        "id": 68,
+        "nombre": "Ken Masters",
+        "edad": 24,
+        "primera_aparicion": "Street Fighter",
+        "anio": 1987,
+        "franquicia": "Street Fighter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9313-T4jq0jGXmmyN.png"
+    },
+    {
+        "id": 69,
+        "nombre": "Cammy White",
+        "edad": 25,
+        "primera_aparicion": "Super Street Fighter II",
+        "anio": 1993,
+        "franquicia": "Street Fighter",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40ca7d11-8410-4179-80d8-ba8f4c099b2a/d3is5fg-f7e95e10-58a4-407f-b8ec-78a87938f828.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80MGNhN2QxMS04NDEwLTQxNzktODBkOC1iYThmNGMwOTliMmEvZDNpczVmZy1mN2U5NWUxMC01OGE0LTQwN2YtYjhlYy03OGE4NzkzOGY4MjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ikw0PRld3Wy280ljBRn6mGvaCNIgxUBOwMV8hiA0siI"
+    },
+    {
+        "id": 70,
+        "nombre": "Guile",
+        "edad": 33,
+        "primera_aparicion": "Street Fighter II",
+        "anio": 1991,
+        "franquicia": "Street Fighter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9312-I1FafoKpC5R7.png"
+    },
+    {
+        "id": 71,
+        "nombre": "Juri Han",
+        "edad": 25,
+        "primera_aparicion": "Super Street Fighter IV",
+        "anio": 2010,
+        "franquicia": "Street Fighter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/33384.jpg"
+    },
+    {
+        "id": 72,
+        "nombre": "Zangief",
+        "edad": 36,
+        "primera_aparicion": "Street Fighter II",
+        "anio": 1991,
+        "franquicia": "Street Fighter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9317-gmNxaVNfqvDX.png"
+    },
+    {
+        "id": 73,
+        "nombre": "Luke Sullivan",
+        "edad": 25,
+        "primera_aparicion": "Street Fighter V",
+        "anio": 2016,
+        "franquicia": "Street Fighter",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSortH837qVZxrAOzSssFdjtsfT1SA5Iut5jVAlPvevJ4xHIcsQI3BpLPuf&s=10"
+    },
+    {
+        "id": 74,
+        "nombre": "Jamie Siu",
+        "edad": 20,
+        "primera_aparicion": "Street Fighter 6",
+        "anio": 2023,
+        "franquicia": "Street Fighter",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhxTkPD-WUsfXVqEw-ZIZ3imkZEvyGNX5BXGck4qPEg&s=10"
+    },
+    {
+        "id": 75,
+        "nombre": "Manon",
+        "edad": 24,
+        "primera_aparicion": "Street Fighter 6",
+        "anio": 2023,
+        "franquicia": "Street Fighter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b233326-DBREDjKH1bHg.png"
+    },
+    {
+        "id": 76,
+        "nombre": "Nina Williams",
+        "edad": 21,
+        "primera_aparicion": "Tekken",
+        "anio": 1994,
+        "franquicia": "Tekken",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
+    },
+    {
+        "id": 77,
+        "nombre": "Anna Williams",
+        "edad": 23,
+        "primera_aparicion": "Tekken 2",
+        "anio": 1995,
+        "franquicia": "Tekken",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/8429.jpg"
+    },
+    {
+        "id": 78,
+        "nombre": "Paul Phoenix",
+        "edad": 24,
+        "primera_aparicion": "Tekken",
+        "anio": 1994,
+        "franquicia": "Tekken",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b285435-yBYFm37lkqRU.png"
+    },
+    {
+        "id": 79,
+        "nombre": "Kazuya Mishima",
+        "edad": 27,
+        "primera_aparicion": "Tekken",
+        "anio": 1994,
+        "franquicia": "Tekken",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/4671.jpg"
+    },
+    {
+        "id": 80,
+        "nombre": "Jin Kazama",
+        "edad": 19,
+        "primera_aparicion": "Tekken 3",
+        "anio": 1997,
+        "franquicia": "Tekken",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/45483.jpg"
+    },
+    {
+        "id": 81,
+        "nombre": "Lei Wulong",
+        "edad": 32,
+        "primera_aparicion": "Tekken 2",
+        "anio": 1995,
+        "franquicia": "Tekken",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/4672.jpg"
+    },
+    {
+        "id": 82,
+        "nombre": "Ivy Valentine",
+        "edad": 30,
+        "primera_aparicion": "Soul Edge",
+        "anio": 1995,
+        "franquicia": "Soulcalibur",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/cm36e.jpg"
+    },
+    {
+        "id": 83,
+        "nombre": "Mitsurugi",
+        "edad": 30,
+        "primera_aparicion": "Soul Edge",
+        "anio": 1995,
+        "franquicia": "Soulcalibur",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9c69b58-7e19-497c-b609-d92a45b0bbb0/d45pdpe-79d7c0b0-f8da-408f-8f98-064380300169.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jOWM2OWI1OC03ZTE5LTQ5N2MtYjYwOS1kOTJhNDViMGJiYjAvZDQ1cGRwZS03OWQ3YzBiMC1mOGRhLTQwOGYtOGY5OC0wNjQzODAzMDAxNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PhXksB-8G9MMOOEm3gx4Gx1rzPTmZJbwp_H0CvGW3Bg"
+    },
+    {
+        "id": 84,
+        "nombre": "Tina Armstrong",
+        "edad": 23,
+        "primera_aparicion": "Dead or Alive",
+        "anio": 1996,
+        "franquicia": "Dead or Alive",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b311843-TZbMW4shJrXn.jpg"
+    },
+    {
+        "id": 85,
+        "nombre": "Helena Douglas",
+        "edad": 21,
+        "primera_aparicion": "Dead or Alive 2",
+        "anio": 1999,
+        "franquicia": "Dead or Alive",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b311844-e1OKY32CUesb.jpg"
+    },
+    {
+        "id": 86,
+        "nombre": "Mai Shiranui",
+        "edad": 23,
+        "primera_aparicion": "Fatal Fury 2",
+        "anio": 1992,
+        "franquicia": "Fatal Fury / KOF",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8873-1Leh3Joqa8nd.png"
+    },
+    {
+        "id": 87,
+        "nombre": "Terry Bogard",
+        "edad": 24,
+        "primera_aparicion": "Fatal Fury",
+        "anio": 1991,
+        "franquicia": "Fatal Fury / KOF",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6819-IiqZ44xi4WSY.jpg"
+    },
+    {
+        "id": 88,
+        "nombre": "Iori Yagami",
+        "edad": 20,
+        "primera_aparicion": "The King of Fighters '95",
+        "anio": 1995,
+        "franquicia": "Fatal Fury / KOF",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/10411.jpg"
+    },
+    {
+        "id": 89,
+        "nombre": "Sonya Blade",
+        "edad": 28,
+        "primera_aparicion": "Mortal Kombat",
+        "anio": 1992,
+        "franquicia": "Mortal Kombat",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6df83f41-ae35-4de3-aae1-4eb9d87a6782/df7c4ll-36af2214-c07e-4210-93b9-e8fc9bac7370.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82ZGY4M2Y0MS1hZTM1LTRkZTMtYWFlMS00ZWI5ZDg3YTY3ODIvZGY3YzRsbC0zNmFmMjIxNC1jMDdlLTQyMTAtOTNiOS1lOGZjOWJhYzczNzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qRSkXUEaHOWGLN6I408SpUCp4DrGIj4JYRSU7nAcxwQ"
+    },
+    {
+        "id": 90,
+        "nombre": "Johnny Cage",
+        "edad": 34,
+        "primera_aparicion": "Mortal Kombat",
+        "anio": 1992,
+        "franquicia": "Mortal Kombat",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84f6d3c7-19b3-471c-99b3-ebe943ca814d/dl6b0ip-4046e580-dbe1-475f-89fb-388aa92232bc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84NGY2ZDNjNy0xOWIzLTQ3MWMtOTliMy1lYmU5NDNjYTgxNGQvZGw2YjBpcC00MDQ2ZTU4MC1kYmUxLTQ3NWYtODlmYi0zODhhYTkyMjMyYmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C5p-RhNUzygMuIoCGj3uZN41ZfC44ezUIl3dmQAmDHA"
+    },
+    {
+        "id": 91,
+        "nombre": "Jax Briggs",
+        "edad": 32,
+        "primera_aparicion": "Mortal Kombat II",
+        "anio": 1993,
+        "franquicia": "Mortal Kombat",
+        "imagen": "https://cdna.artstation.com/p/assets/covers/images/026/998/844/large/damian-navarro-mendez-damian-navarro-mendez-jax-skin-a-thumb-b.jpg?1590322744"
+    },
+    {
+        "id": 92,
+        "nombre": "Cassie Cage",
+        "edad": 25,
+        "primera_aparicion": "Mortal Kombat X",
+        "anio": 2015,
+        "franquicia": "Mortal Kombat",
+        "imagen": "https://static.wikia.nocookie.net/mkwikia/images/d/d2/Cassie_mk11.png/revision/latest?cb=20190306231757"
+    },
+    {
+        "id": 93,
+        "nombre": "Tracer",
+        "edad": 26,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0478d388-e8c3-480e-b46b-253a3eea9431/dib0d1v-62be2af9-ea43-438d-9898-09ed04f14822.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wNDc4ZDM4OC1lOGMzLTQ4MGUtYjQ2Yi0yNTNhM2VlYTk0MzEvZGliMGQxdi02MmJlMmFmOS1lYTQzLTQzOGQtOTg5OC0wOWVkMDRmMTQ4MjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5ZD5DubdMMr8xAg21c3RtdAVApj3aDdOX_rHpgeeqtA"
+    },
+    {
+        "id": 94,
+        "nombre": "Widowmaker",
+        "edad": 33,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/b9003b36404647.5823862f0811c.png"
+    },
+    {
+        "id": 95,
+        "nombre": "Mercy",
+        "edad": 37,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://media.craiyon.com/2025-05-17/xa_5ejOoSWGmn9Slb8LOsw.webp"
+    },
+    {
+        "id": 96,
+        "nombre": "D.Va",
+        "edad": 19,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://static.wikia.nocookie.net/all-worlds-alliance/images/d/da/DVa_Render.png/revision/latest/scale-to-width-down/483?cb=20200415044652"
+    },
+    {
+        "id": 97,
+        "nombre": "Pharah",
+        "edad": 32,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://static.wikia.nocookie.net/overwatch/images/f/fe/Pharah_portrait.png/revision/latest?cb=20160629002457&path-prefix=es"
+    },
+    {
+        "id": 98,
+        "nombre": "Genji Shimada",
+        "edad": 35,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b292448-LA1u68uKm9z9.png"
+    },
+    {
+        "id": 99,
+        "nombre": "Hanzo Shimada",
+        "edad": 38,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b292447-EDfXI5DhxolB.png"
+    },
+    {
+        "id": 100,
+        "nombre": "Reaper",
+        "edad": 57,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5925e7dd-fbd8-4b74-a807-ca9b2f32cf80/df3zeu7-a70df191-1a85-41a3-875c-ed602f845091.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OTI1ZTdkZC1mYmQ4LTRiNzQtYTgwNy1jYTliMmYzMmNmODAvZGYzemV1Ny1hNzBkZjE5MS0xYTg1LTQxYTMtODc1Yy1lZDYwMmY4NDUwOTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SpJ5N3OtuFzHgiNpi_lmLpw8ZtakwroPKaIfeW7YA6Y"
+    },
+    {
+        "id": 101,
+        "nombre": "Soldier: 76",
+        "edad": 57,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://static.wikia.nocookie.net/deathbattlefanon/images/d/d9/Soldier_76.png/revision/latest?cb=20161201033203"
+    },
+    {
+        "id": 102,
+        "nombre": "Mei",
+        "edad": 31,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://i.pinimg.com/736x/e9/11/e0/e911e0aecb82c55d4018c8ced1f5ceb5.jpg"
+    },
+    {
+        "id": 103,
+        "nombre": "Zarya",
+        "edad": 28,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://static.wikia.nocookie.net/p__/images/1/17/Zarya.png/revision/latest?cb=20170122151408&path-prefix=protagonist"
+    },
+    {
+        "id": 104,
+        "nombre": "Ashe (Overwatch)",
+        "edad": 36,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Z_socKDULbW5RYVpZsjBL6cf89g6FkSnMalcxenS5A&s=10"
+    },
+    {
+        "id": 105,
+        "nombre": "Sombra",
+        "edad": 30,
+        "primera_aparicion": "Overwatch",
+        "anio": 2016,
+        "franquicia": "Overwatch",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d099d316-98cf-4095-a2f9-32cca4219baa/danvy16-afa4aca9-19d6-4d77-b260-f46bae90bc7e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kMDk5ZDMxNi05OGNmLTQwOTUtYTJmOS0zMmNjYTQyMTliYWEvZGFudnkxNi1hZmE0YWNhOS0xOWQ2LTRkNzctYjI2MC1mNDZiYWU5MGJjN2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PNhf4Gq-T-kbrK_c_qif4tAuKYvyOe0UjwGUavS60PY"
+    },
+    {
+        "id": 106,
+        "nombre": "Kiriko",
+        "edad": 25,
+        "primera_aparicion": "Overwatch 2",
+        "anio": 2022,
+        "franquicia": "Overwatch",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/d/dd/Kiriko_Overwatch.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+    {
+        "id": 107,
+        "nombre": "Jett",
+        "edad": 22,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c14b5952-daba-4cd1-8aa9-0c44e6e6cbcf/diehdyc-942ea7ec-5a6d-4db9-a26d-2058e51c1c68.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jMTRiNTk1Mi1kYWJhLTRjZDEtOGFhOS0wYzQ0ZTZlNmNiY2YvZGllaGR5Yy05NDJlYTdlYy01YTZkLTRkYjktYTI2ZC0yMDU4ZTUxYzFjNjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UG8BFCseIyWTZqge7-ROyjgSseZGmtltFYpQbCLiP20"
+    },
+    {
+        "id": 108,
+        "nombre": "Sage",
+        "edad": 33,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_A4YQdClP1QG0hvbUwLJCKfmIwjpKD4DCc5hwJCRsLA&s=10"
+    },
+    {
+        "id": 109,
+        "nombre": "Reyna",
+        "edad": 27,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6174cd1a-f614-4c1e-9d75-4997060b6156/dee22qq-d9facced-b914-486f-b751-1adb7cbb766e.png/v1/fill/w_792,h_1009/reyna_render_by_lynwulf_dee22qq-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzMSIsInBhdGgiOiIvZi82MTc0Y2QxYS1mNjE0LTRjMWUtOWQ3NS00OTk3MDYwYjYxNTYvZGVlMjJxcS1kOWZhY2NlZC1iOTE0LTQ4NmYtYjc1MS0xYWRiN2NiYjc2NmUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6KnWiwJzQ6PYcHVB0VcFYJd31NKxh7c_hGnWHbY9BXg"
+    },
+    {
+        "id": 110,
+        "nombre": "Viper",
+        "edad": 36,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb4Vb5OTJMoU_PVoDXCkdXyBoC5Smbec23dZ9ma9Hj_w&s=10"
+    },
+    {
+        "id": 111,
+        "nombre": "Killjoy",
+        "edad": 22,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6174cd1a-f614-4c1e-9d75-4997060b6156/dee21sd-ae382c72-7e7e-4302-94ab-fe706fdf9449.png/v1/fill/w_939,h_851/killjoy_render_by_lynwulf_dee21sd-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE2MSIsInBhdGgiOiIvZi82MTc0Y2QxYS1mNjE0LTRjMWUtOWQ3NS00OTk3MDYwYjYxNTYvZGVlMjFzZC1hZTM4MmM3Mi03ZTdlLTQzMDItOTRhYi1mZTcwNmZkZjk0NDkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lxC7nqHhjGb_UmHM11RdhDTsUAojUDMa4lx1lmOZaOk"
+    },
+    {
+        "id": 112,
+        "nombre": "Phoenix",
+        "edad": 25,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6174cd1a-f614-4c1e-9d75-4997060b6156/ddrupzk-00f920df-13a2-4247-9425-afe7491ffdda.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82MTc0Y2QxYS1mNjE0LTRjMWUtOWQ3NS00OTk3MDYwYjYxNTYvZGRydXB6ay0wMGY5MjBkZi0xM2EyLTQyNDctOTQyNS1hZmU3NDkxZmZkZGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WxvszcN5q6p8sLobXEAZOJir86kxqI5fOXqhDQWi-WU"
+    },
+    {
+        "id": 113,
+        "nombre": "Omen",
+        "edad": 35,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79f59cdf-39ad-4360-adf1-5ce480305c1c/ddyto0j-f5f79549-5003-4214-ae75-aca8c67e26c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83OWY1OWNkZi0zOWFkLTQzNjAtYWRmMS01Y2U0ODAzMDVjMWMvZGR5dG8wai1mNWY3OTU0OS01MDAzLTQyMTQtYWU3NS1hY2E4YzY3ZTI2YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxA0nNNx90ZOCZ0XGqA1NGXpzTZag3yWcwkVbhmssKg"
+    },
+    {
+        "id": 114,
+        "nombre": "Cypher",
+        "edad": 38,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1oMrGK6yLi0cyE7enczkRfWY7QJ2eKD0eT6iB0YOaA&s=10"
+    },
+    {
+        "id": 115,
+        "nombre": "Sova",
+        "edad": 39,
+        "primera_aparicion": "Valorant",
+        "anio": 2020,
+        "franquicia": "Valorant",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79f59cdf-39ad-4360-adf1-5ce480305c1c/ddytnqb-bc9b42f3-988e-4d7a-8e57-505ae6fc0d91.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83OWY1OWNkZi0zOWFkLTQzNjAtYWRmMS01Y2U0ODAzMDVjMWMvZGR5dG5xYi1iYzliNDJmMy05ODhlLTRkN2EtOGU1Ny01MDVhZTZmYzBkOTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iQmvdTgjwHjy_En-0PHQ_q37WKOEh-ZjSFTFrZ5B0Gg"
+    },
+    {
+        "id": 116,
+        "nombre": "Wraith",
+        "edad": 30,
+        "primera_aparicion": "Apex Legends",
+        "anio": 2019,
+        "franquicia": "Apex Legends",
+        "imagen": "https://i.pinimg.com/736x/21/67/8c/21678ce1cdb33a90880c5103fabc46c1.jpg"
+    },
+    {
+        "id": 117,
+        "nombre": "Lifeline",
+        "edad": 26,
+        "primera_aparicion": "Apex Legends",
+        "anio": 2019,
+        "franquicia": "Apex Legends",
+        "imagen": "https://cdna.artstation.com/p/assets/images/images/027/017/014/large/abdelmounim-bouazzaoui-lifeline19520.jpg?1631388180"
+    },
+    {
+        "id": 118,
+        "nombre": "Bangalore",
+        "edad": 34,
+        "primera_aparicion": "Apex Legends",
+        "anio": 2019,
+        "franquicia": "Apex Legends",
+        "imagen": "https://cdna.artstation.com/p/assets/images/images/019/231/032/large/patrick-yeung-bangalore-beasthunter-pose1-midfront2.jpg?1562606241"
+    },
+    {
+        "id": 119,
+        "nombre": "Loba",
+        "edad": 28,
+        "primera_aparicion": "Apex Legends",
+        "anio": 2019,
+        "franquicia": "Apex Legends",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/5/53/Loba.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+    {
+        "id": 120,
+        "nombre": "Mirage",
+        "edad": 29,
+        "primera_aparicion": "Apex Legends",
+        "anio": 2019,
+        "franquicia": "Apex Legends",
+        "imagen": "https://titanfall.wiki.gg/images/thumb/AL_Mirage_Portrait.png/300px-AL_Mirage_Portrait.png?34964b"
+    },
+    {
+        "id": 121,
+        "nombre": "Valkyrie",
+        "edad": 30,
+        "primera_aparicion": "Apex Legends",
+        "anio": 2019,
+        "franquicia": "Apex Legends",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxXhJUPwUN0BbVaH6hBVZsN3buq4mheoLXutSHzJBSJYgI9pnxLf3Q6s&s=10"
+    },
+    {
+        "id": 122,
+        "nombre": "Caitlyn",
+        "edad": 27,
+        "primera_aparicion": "League of Legends",
+        "anio": 2011,
+        "franquicia": "League of Legends",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e632e5f3-ea51-4a14-a0fe-3478869513d3/df7xnlv-f83d1638-1c3b-40c8-91d0-225b3d989c29.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lNjMyZTVmMy1lYTUxLTRhMTQtYTBmZS0zNDc4ODY5NTEzZDMvZGY3eG5sdi1mODNkMTYzOC0xYzNiLTQwYzgtOTFkMC0yMjViM2Q5ODljMjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PVilt0puxjEVaM32gjHj6kqGaMg03BoJmfCUzgJdT18"
+    },
+    {
+        "id": 123,
+        "nombre": "Miss Fortune",
+        "edad": 32,
+        "primera_aparicion": "League of Legends",
+        "anio": 2010,
+        "franquicia": "League of Legends",
+        "imagen": "https://wiki.leagueoflegends.com/en-us/images/Miss_Fortune_Render.png?0bc05"
+    },
+    {
+        "id": 124,
+        "nombre": "Katarina",
+        "edad": 28,
+        "primera_aparicion": "League of Legends",
+        "anio": 2009,
+        "franquicia": "League of Legends",
+        "imagen": "https://wiki.leagueoflegends.com/en-us/images/Katarina_Render.png?8e510"
+    },
+    {
+        "id": 125,
+        "nombre": "Vi",
+        "edad": 23,
+        "primera_aparicion": "Arcane",
+        "anio": 2021,
+        "franquicia": "Arcane",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/dhpgmmh-5d91bb1f-41fe-42b7-9e61-529da7abeaab.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83YTViNWM2Ny1kZWU2LTQ1NmItODYzYi03NTkzMDg1MmM3MTUvZGhwZ21taC01ZDkxYmIxZi00MWZlLTQyYjctOWU2MS01MjlkYTdhYmVhYWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kgcsR5taofXO_aarAd6G7tYxGjKvJvt-epGCMsyhrIQ"
+    },
+    {
+        "id": 126,
+        "nombre": "Jayce Talis",
+        "edad": 27,
+        "primera_aparicion": "Arcane",
+        "anio": 2021,
+        "franquicia": "Arcane",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWJnc4IwkD6TRPyWF4josQXEFEWKLVbtn_QesqCgOTNBuSW9M8DQFcOU&s=10"
+    },
+    {
+        "id": 127,
+        "nombre": "Viktor",
+        "edad": 29,
+        "primera_aparicion": "Arcane",
+        "anio": 2021,
+        "franquicia": "Arcane",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/dilt3l4-0a019c32-5f91-456c-a77d-d62687c86aa7.png/v1/fill/w_411,h_1054/arcane_s2_viktor_render_by_fdr1027_dilt3l4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA1NCIsInBhdGgiOiIvZi83YTViNWM2Ny1kZWU2LTQ1NmItODYzYi03NTkzMDg1MmM3MTUvZGlsdDNsNC0wYTAxOWMzMi01ZjkxLTQ1NmMtYTc3ZC1kNjI2ODdjODZhYTcucG5nIiwid2lkdGgiOiI8PTQxMSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bbXUmI2eoHvP-I6H6Bf8qqyJ2DnTn60cBG37l3d4ihk"
+    },
+    {
+        "id": 128,
+        "nombre": "Mel Medarda",
+        "edad": 33,
+        "primera_aparicion": "Arcane",
+        "anio": 2021,
+        "franquicia": "Arcane",
+        "imagen": "https://cdn.80.lv/api/upload/content/8c/images/67d7074472e0d/widen_1840x0.jpg"
+    },
+    {
+        "id": 129,
+        "nombre": "Ambessa Medarda",
+        "edad": 50,
+        "primera_aparicion": "Arcane",
+        "anio": 2024,
+        "franquicia": "Arcane",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c94c1fb-72e2-4933-bb73-55b09c58bd6d/din7hbu-0eecdc44-abd4-4800-9993-7227cc15a102.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8yYzk0YzFmYi03MmUyLTQ5MzMtYmI3My01NWIwOWM1OGJkNmQvZGluN2hidS0wZWVjZGM0NC1hYmQ0LTQ4MDAtOTk5My03MjI3Y2MxNWExMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t0dexLLgZRSUeM7zhtivMHnl2Y_Hy9c-_9AwtI7PLUM"
+    },
+    {
+        "id": 130,
+        "nombre": "Kratos",
+        "edad": 40,
+        "primera_aparicion": "God of War",
+        "anio": 2005,
+        "franquicia": "God of War",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/cm2zp.jpg"
+    },
+    {
+        "id": 131,
+        "nombre": "Samus Aran",
+        "edad": 25,
+        "primera_aparicion": "Metroid",
+        "anio": 1986,
+        "franquicia": "Metroid",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11998-akZrClzG6mrR.jpg"
+    },
+    {
+        "id": 132,
+        "nombre": "Nathan Drake",
+        "edad": 36,
+        "primera_aparicion": "Uncharted: Drake's Fortune",
+        "anio": 2007,
+        "franquicia": "Uncharted",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/jler3mb6yjfotv9vlesw.jpg"
+    },
+    {
+        "id": 133,
+        "nombre": "Elena Fisher",
+        "edad": 28,
+        "primera_aparicion": "Uncharted: Drake's Fortune",
+        "anio": 2007,
+        "franquicia": "Uncharted",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/bxsmrr4uebv98n8nsqlq.jpg"
+    },
+    {
+        "id": 134,
+        "nombre": "Chloe Frazer",
+        "edad": 30,
+        "primera_aparicion": "Uncharted 2",
+        "anio": 2009,
+        "franquicia": "Uncharted",
+        "imagen": "https://images.igdb.com/igdb/image/upload/t_720p/zjahviuapmcgykixqfx4.jpg"
+    },
+    {
+        "id": 135,
+        "nombre": "Joel Miller",
+        "edad": 48,
+        "primera_aparicion": "The Last of Us",
+        "anio": 2013,
+        "franquicia": "The Last of Us",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bb52058-0095-4587-b4c5-8b5c9685bc8c/dfy9fsz-d912d3db-0891-4658-8216-909d5f88438f.png/v1/fill/w_1280,h_1337/joel_miller_by_tylermascola_dfy9fsz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMzNyIsInBhdGgiOiIvZi8zYmI1MjA1OC0wMDk1LTQ1ODctYjRjNS04YjVjOTY4NWJjOGMvZGZ5OWZzei1kOTEyZDNkYi0wODkxLTQ2NTgtODIxNi05MDlkNWY4ODQzOGYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.h6Nno3oNCMXXwSMAFB5pexQ3GJQ1aJoJFaM5PCFOWR8"
+    },
+    {
+        "id": 136,
+        "nombre": "Abby Anderson",
+        "edad": 25,
+        "primera_aparicion": "The Last of Us Part II",
+        "anio": 2020,
+        "franquicia": "The Last of Us",
+        "imagen": "https://static.wikia.nocookie.net/vsbattles/images/1/16/AbbyPart2.png/revision/latest?cb=20201215204613"
+    },
+    {
+        "id": 137,
+        "nombre": "Aloy",
+        "edad": 19,
+        "primera_aparicion": "Horizon Zero Dawn",
+        "anio": 2017,
+        "franquicia": "Horizon",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af7dfb2d-8cc1-45ab-9bab-6b0d0c655e58/dk06e2o-f0ddacc9-7bd0-4d44-af36-ccd0279ccb0f.png/v1/fill/w_894,h_894/horizon_zero_dawn_transparent_character_png_by_wallpaper_background_dk06e2o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MCIsInBhdGgiOiIvZi9hZjdkZmIyZC04Y2MxLTQ1YWItOWJhYi02YjBkMGM2NTVlNTgvZGswNmUyby1mMGRkYWNjOS03YmQwLTRkNDQtYWYzNi1jY2QwMjc5Y2NiMGYucG5nIiwid2lkdGgiOiI8PTIxNjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Jsyk4_qHIS9Lm2ZJEEv3qqKQAGxVysjYQcq1fvqPBcQ"
+    },
+    {
+        "id": 138,
+        "nombre": "Trish",
+        "edad": 25,
+        "primera_aparicion": "Devil May Cry",
+        "anio": 2001,
+        "franquicia": "Devil May Cry",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/2883.jpg"
+    },
+    {
+        "id": 139,
+        "nombre": "Lady",
+        "edad": 22,
+        "primera_aparicion": "Devil May Cry 3",
+        "anio": 2005,
+        "franquicia": "Devil May Cry",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121529-Uu4aQdOP4G98.png"
+    },
+    {
+        "id": 140,
+        "nombre": "Bayonetta",
+        "edad": 30,
+        "primera_aparicion": "Bayonetta",
+        "anio": 2009,
+        "franquicia": "Bayonetta",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87496-pBhFLnxrCi7y.jpg"
+    },
+    {
+        "id": 141,
+        "nombre": "2B",
+        "edad": 24,
+        "primera_aparicion": "NieR: Automata",
+        "anio": 2017,
+        "franquicia": "NieR",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132494-R05zeZPjDG3l.jpg"
+    },
+    {
+        "id": 142,
+        "nombre": "A2",
+        "edad": 24,
+        "primera_aparicion": "NieR: Automata",
+        "anio": 2017,
+        "franquicia": "NieR",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138298-iGfSohqtJYsT.jpg"
+    },
+    {
+        "id": 143,
+        "nombre": "Kaine",
+        "edad": 20,
+        "primera_aparicion": "NieR",
+        "anio": 2010,
+        "franquicia": "NieR",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132035-jCrKIBw6rVVG.png"
+    },
+    {
+        "id": 144,
+        "nombre": "Trevor Belmont",
+        "edad": 25,
+        "primera_aparicion": "Castlevania III",
+        "anio": 1989,
+        "franquicia": "Castlevania",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6df83f41-ae35-4de3-aae1-4eb9d87a6782/dfjosie-702addc6-0498-4bb8-97fa-8bd36ada0308.png/v1/fill/w_1280,h_1152/trevor_belmont_render_by_ssundpool_dfjosie-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1MiIsInBhdGgiOiIvZi82ZGY4M2Y0MS1hZTM1LTRkZTMtYWFlMS00ZWI5ZDg3YTY3ODIvZGZqb3NpZS03MDJhZGRjNi0wNDk4LTRiYjgtOTdmYS04YmQzNmFkYTAzMDgucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EEMLy7xVS5ALL4KoZSde7xaIdNLNFeC_j2tfcTc4XuA"
+    },
+    {
+        "id": 145,
+        "nombre": "Cynthia",
+        "edad": 30,
+        "primera_aparicion": "Pokémon Diamond/Pearl",
+        "anio": 2006,
+        "franquicia": "Pokémon",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b17947-snK9qbmCzKdY.png"
+    },
+    {
+        "id": 146,
+        "nombre": "Lusamine",
+        "edad": 40,
+        "primera_aparicion": "Pokémon Sun/Moon",
+        "anio": 2016,
+        "franquicia": "Pokémon",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n132771-tSIRzKkYnJ05.png"
+    },
+    {
+        "id": 147,
+        "nombre": "Giovanni",
+        "edad": 45,
+        "primera_aparicion": "Pokémon Red/Green",
+        "anio": 1996,
+        "franquicia": "Pokémon",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9881-hhIKJ4JvPY7S.png"
+    },
+    {
+        "id": 148,
+        "nombre": "Lance",
+        "edad": 30,
+        "primera_aparicion": "Pokémon Gold/Silver",
+        "anio": 1999,
+        "franquicia": "Pokémon",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b265209-NAHBUq0SX3Vb.png"
+    },
+    {
+        "id": 149,
+        "nombre": "Camilla",
+        "edad": 24,
+        "primera_aparicion": "Fire Emblem Fates",
+        "anio": 2015,
+        "franquicia": "Fire Emblem",
+        "imagen": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/fire-emblem-engage/4/4e/Fire_Emblem_Engage_Camilla.png"
+    },
+    {
+        "id": 150,
+        "nombre": "Ranni la Bruja",
+        "edad": 30,
+        "primera_aparicion": "Elden Ring",
+        "anio": 2022,
+        "franquicia": "Elden Ring",
+        "imagen": "https://i.pinimg.com/736x/42/11/25/421125ed086b5d7c03b4f53eade5b4e5.jpg"
+    },
+    {
+        "id": 151,
+        "nombre": "Kakashi Hatake",
+        "edad": 26,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
+    },
+    {
+        "id": 152,
+        "nombre": "Itachi Uchiha",
+        "edad": 21,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
+    },
+    {
+        "id": 153,
+        "nombre": "Tsunade",
+        "edad": 50,
+        "primera_aparicion": "Naruto",
+        "anio": 2003,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b155934-xFVBNIEABEN7.png"
+    },
+    {
+        "id": 154,
+        "nombre": "Jiraiya",
+        "edad": 50,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png"
+    },
+    {
+        "id": 155,
+        "nombre": "Minato Namikaze",
+        "edad": 24,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2535-Xq9WKNPJQEt3.png"
+    },
+    {
+        "id": 156,
+        "nombre": "Anko Mitarashi",
+        "edad": 24,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b809-FhWTN0LFVzRa.png"
+    },
+    {
+        "id": 157,
+        "nombre": "Kurenai Yuhi",
+        "edad": 26,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://i.pinimg.com/736x/ad/30/9c/ad309c1fe8f0d881077e772e1acdf9e3.jpg"
+    },
+    {
+        "id": 158,
+        "nombre": "Might Guy",
+        "edad": 27,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b307-xieUEdhdTVwQ.png"
+    },
+    {
+        "id": 159,
+        "nombre": "Mei Terumi",
+        "edad": 33,
+        "primera_aparicion": "Naruto Shippuden",
+        "anio": 2008,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23478-U7n8YUe2gFDW.png"
+    },
+    {
+        "id": 160,
+        "nombre": "Orochimaru",
+        "edad": 50,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n2455-V9tLMS3TIgJW.png"
+    },
+    {
+        "id": 161,
+        "nombre": "Kisame Hoshigaki",
+        "edad": 34,
+        "primera_aparicion": "Naruto",
+        "anio": 2002,
+        "franquicia": "Naruto",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/2672-oxbHx8n3N7WY.jpg"
+    },
+    {
+        "id": 162,
+        "nombre": "Nico Robin",
+        "edad": 28,
+        "primera_aparicion": "One Piece",
+        "anio": 2001,
+        "franquicia": "One Piece",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+    },
+    {
+        "id": 163,
+        "nombre": "Roronoa Zoro",
+        "edad": 19,
+        "primera_aparicion": "One Piece",
+        "anio": 1999,
+        "franquicia": "One Piece",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+    },
+    {
+        "id": 164,
+        "nombre": "Sanji",
+        "edad": 19,
+        "primera_aparicion": "One Piece",
+        "anio": 1999,
+        "franquicia": "One Piece",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+    },
+    {
+        "id": 165,
+        "nombre": "Boa Hancock",
+        "edad": 29,
+        "primera_aparicion": "One Piece",
+        "anio": 2003,
+        "franquicia": "One Piece",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
+    },
+    {
+        "id": 166,
+        "nombre": "Shanks",
+        "edad": 39,
+        "primera_aparicion": "One Piece",
+        "anio": 1997,
+        "franquicia": "One Piece",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png"
+    },
+    {
+        "id": 167,
+        "nombre": "Dracule Mihawk",
+        "edad": 43,
+        "primera_aparicion": "One Piece",
+        "anio": 1997,
+        "franquicia": "One Piece",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n2064-OpnF4nLi6bvL.png"
+    },
+    {
+        "id": 168,
+        "nombre": "Portgas D. Ace",
+        "edad": 20,
+        "primera_aparicion": "One Piece",
+        "anio": 2000,
+        "franquicia": "One Piece",
+        "imagen": "https://i.pinimg.com/736x/c7/6e/58/c76e58660639a2d3abd0b3ed63d6a800.jpg"
+    },
+    {
+        "id": 169,
+        "nombre": "Trafalgar Law",
+        "edad": 24,
+        "primera_aparicion": "One Piece",
+        "anio": 2009,
+        "franquicia": "One Piece",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg"
+    },
+    {
+        "id": 170,
+        "nombre": "Rangiku Matsumoto",
+        "edad": 28,
+        "primera_aparicion": "Bleach",
+        "anio": 2001,
+        "franquicia": "Bleach",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png"
+    },
+    {
+        "id": 171,
+        "nombre": "Yoruichi Shihoin",
+        "edad": 30,
+        "primera_aparicion": "Bleach",
+        "anio": 2001,
+        "franquicia": "Bleach",
+        "imagen": "https://i.ebayimg.com/images/g/UGoAAOSwO1FiAb0J/s-l400.jpg"
+    },
+    {
+        "id": 172,
+        "nombre": "Byakuya Kuchiki",
+        "edad": 29,
+        "primera_aparicion": "Bleach",
+        "anio": 2001,
+        "franquicia": "Bleach",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b907-kgnDKeMtEN5y.png"
+    },
+    {
+        "id": 173,
+        "nombre": "Kenpachi Zaraki",
+        "edad": 35,
+        "primera_aparicion": "Bleach",
+        "anio": 2002,
+        "franquicia": "Bleach",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b909-slhoFBon7oiH.jpg"
+    },
+    {
+        "id": 174,
+        "nombre": "Ulquiorra Cifer",
+        "edad": 30,
+        "primera_aparicion": "Bleach",
+        "anio": 2004,
+        "franquicia": "Bleach",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1081-xLTqHfLL2I2W.png"
+    },
+    {
+        "id": 175,
+        "nombre": "Satoru Gojo",
+        "edad": 28,
+        "primera_aparicion": "Jujutsu Kaisen",
+        "anio": 2018,
+        "franquicia": "Jujutsu Kaisen",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
+    },
+    {
+        "id": 176,
+        "nombre": "Kento Nanami",
+        "edad": 27,
+        "primera_aparicion": "Jujutsu Kaisen",
+        "anio": 2018,
+        "franquicia": "Jujutsu Kaisen",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+    },
+    {
+        "id": 177,
+        "nombre": "Toji Fushiguro",
+        "edad": 28,
+        "primera_aparicion": "Jujutsu Kaisen",
+        "anio": 2018,
+        "franquicia": "Jujutsu Kaisen",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162722-btzdghBizxKS.jpg"
+    },
+    {
+        "id": 178,
+        "nombre": "Suguru Geto",
+        "edad": 27,
+        "primera_aparicion": "Jujutsu Kaisen",
+        "anio": 2018,
+        "franquicia": "Jujutsu Kaisen",
+        "imagen": "https://i.pinimg.com/736x/f2/96/2c/f2962cb9038429841325b716e36b19c0.jpg"
+    },
+    {
+        "id": 179,
+        "nombre": "Mei Mei",
+        "edad": 28,
+        "primera_aparicion": "Jujutsu Kaisen",
+        "anio": 2018,
+        "franquicia": "Jujutsu Kaisen",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
+    },
+    {
+        "id": 180,
+        "nombre": "Makima",
+        "edad": 30,
+        "primera_aparicion": "Chainsaw Man",
+        "anio": 2018,
+        "franquicia": "Chainsaw Man",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
+    },
+    {
+        "id": 181,
+        "nombre": "Himeno",
+        "edad": 24,
+        "primera_aparicion": "Chainsaw Man",
+        "anio": 2019,
+        "franquicia": "Chainsaw Man",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png"
+    },
+    {
+        "id": 182,
+        "nombre": "Aki Hayakawa",
+        "edad": 21,
+        "primera_aparicion": "Chainsaw Man",
+        "anio": 2018,
+        "franquicia": "Chainsaw Man",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png"
+    },
+    {
+        "id": 183,
+        "nombre": "Kyojuro Rengoku",
+        "edad": 20,
+        "primera_aparicion": "Demon Slayer",
+        "anio": 2016,
+        "franquicia": "Demon Slayer",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25292a7a-1cfa-4684-81a6-96c86ab8c2f2/djce8wt-88dfdcea-a9b9-4de4-8986-97139557f03a.png/v1/fill/w_1280,h_1657/kyojuro_rengoku_render_png_by_your_designs_djce8wt-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY1NyIsInBhdGgiOiIvZi8yNTI5MmE3YS0xY2ZhLTQ2ODQtODFhNi05NmM4NmFiOGMyZjIvZGpjZTh3dC04OGRmZGNlYS1hOWI5LTRkZTQtODk4Ni05NzEzOTU1N2YwM2EucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.S806JBxG-gaVt3X3cy7VFnp_fX4KfN-dMEPbuv8tgw4"
+    },
+    {
+        "id": 184,
+        "nombre": "Giyu Tomioka",
+        "edad": 21,
+        "primera_aparicion": "Demon Slayer",
+        "anio": 2016,
+        "franquicia": "Demon Slayer",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b3114b-484b-4664-bd70-02ede7164059/ddicplq-1782df5f-abba-481f-9302-1048858eaeef.png/v1/fill/w_670,h_1192/render_tomioka_giyu_by_renderland_ddicplq-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA0NyIsInBhdGgiOiIvZi9iNmIzMTE0Yi00ODRiLTQ2NjQtYmQ3MC0wMmVkZTcxNjQwNTkvZGRpY3BscS0xNzgyZGY1Zi1hYmJhLTQ4MWYtOTMwMi0xMDQ4ODU4ZWFlZWYucG5nIiwid2lkdGgiOiI8PTExNTEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P32sSyJZcBLTN4rbCzCvhS8HlsFdNyxTyJHU2lLBJuY"
+    },
+    {
+        "id": 185,
+        "nombre": "Tengen Uzui",
+        "edad": 23,
+        "primera_aparicion": "Demon Slayer",
+        "anio": 2017,
+        "franquicia": "Demon Slayer",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png"
+    },
+    {
+        "id": 186,
+        "nombre": "Levi Ackerman",
+        "edad": 34,
+        "primera_aparicion": "Attack on Titan",
+        "anio": 2009,
+        "franquicia": "Attack on Titan",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/054a91f2-3cd8-45d1-89f2-dd4828550aeb/di0ros9-c1c63a5f-201e-4f82-be68-929e748bf2ba.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wNTRhOTFmMi0zY2Q4LTQ1ZDEtODlmMi1kZDQ4Mjg1NTBhZWIvZGkwcm9zOS1jMWM2M2E1Zi0yMDFlLTRmODItYmU2OC05MjllNzQ4YmYyYmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4ubVaz1XqYMJ_mOr8a15AfJqgJtYXUUAWeSW5gTjasQ"
+    },
+    {
+        "id": 187,
+        "nombre": "Erwin Smith",
+        "edad": 35,
+        "primera_aparicion": "Attack on Titan",
+        "anio": 2009,
+        "franquicia": "Attack on Titan",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png"
+    },
+    {
+        "id": 188,
+        "nombre": "Hange Zoe",
+        "edad": 30,
+        "primera_aparicion": "Attack on Titan",
+        "anio": 2009,
+        "franquicia": "Attack on Titan",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+    },
+    {
+        "id": 189,
+        "nombre": "Reiner Braun",
+        "edad": 19,
+        "primera_aparicion": "Attack on Titan",
+        "anio": 2009,
+        "franquicia": "Attack on Titan",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png"
+    },
+    {
+        "id": 190,
+        "nombre": "Roy Mustang",
+        "edad": 29,
+        "primera_aparicion": "Fullmetal Alchemist",
+        "anio": 2001,
+        "franquicia": "Fullmetal Alchemist",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png"
+    },
+    {
+        "id": 191,
+        "nombre": "Riza Hawkeye",
+        "edad": 26,
+        "primera_aparicion": "Fullmetal Alchemist",
+        "anio": 2001,
+        "franquicia": "Fullmetal Alchemist",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
+    },
+    {
+        "id": 192,
+        "nombre": "Olivier Armstrong",
+        "edad": 34,
+        "primera_aparicion": "Fullmetal Alchemist",
+        "anio": 2001,
+        "franquicia": "Fullmetal Alchemist",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png"
+    },
+    {
+        "id": 193,
+        "nombre": "Maes Hughes",
+        "edad": 30,
+        "primera_aparicion": "Fullmetal Alchemist",
+        "anio": 2001,
+        "franquicia": "Fullmetal Alchemist",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png"
+    },
+    {
+        "id": 194,
+        "nombre": "Lust",
+        "edad": 30,
+        "primera_aparicion": "Fullmetal Alchemist",
+        "anio": 2001,
+        "franquicia": "Fullmetal Alchemist",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b650-viEy6bOIcGiU.png"
+    },
+    {
+        "id": 195,
+        "nombre": "L Lawliet",
+        "edad": 24,
+        "primera_aparicion": "Death Note",
+        "anio": 2003,
+        "franquicia": "Death Note",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png"
+    },
+    {
+        "id": 196,
+        "nombre": "Spike Spiegel",
+        "edad": 27,
+        "primera_aparicion": "Cowboy Bebop",
+        "anio": 1998,
+        "franquicia": "Cowboy Bebop",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
+    },
+    {
+        "id": 197,
+        "nombre": "Faye Valentine",
+        "edad": 23,
+        "primera_aparicion": "Cowboy Bebop",
+        "anio": 1998,
+        "franquicia": "Cowboy Bebop",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
+    },
+    {
+        "id": 198,
+        "nombre": "Jet Black",
+        "edad": 36,
+        "primera_aparicion": "Cowboy Bebop",
+        "anio": 1998,
+        "franquicia": "Cowboy Bebop",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90112-KVRcvbKBKLxY.png"
+    },
+    {
+        "id": 199,
+        "nombre": "Misato Katsuragi",
+        "edad": 29,
+        "primera_aparicion": "Neon Genesis Evangelion",
+        "anio": 1995,
+        "franquicia": "Evangelion",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+    },
+    {
+        "id": 200,
+        "nombre": "Ritsuko Akagi",
+        "edad": 30,
+        "primera_aparicion": "Neon Genesis Evangelion",
+        "anio": 1995,
+        "franquicia": "Evangelion",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png"
+    },
+    {
+        "id": 201,
+        "nombre": "Ryoji Kaji",
+        "edad": 30,
+        "primera_aparicion": "Neon Genesis Evangelion",
+        "anio": 1995,
+        "franquicia": "Evangelion",
+        "imagen": "https://i.pinimg.com/474x/d9/1d/25/d91d25e8a2d367aea26f2894f6cecaa8.jpg"
+    },
+    {
+        "id": 202,
+        "nombre": "Hisoka Morow",
+        "edad": 26,
+        "primera_aparicion": "Hunter x Hunter",
+        "anio": 1999,
+        "franquicia": "Hunter x Hunter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png"
+    },
+    {
+        "id": 203,
+        "nombre": "Chrollo Lucilfer",
+        "edad": 26,
+        "primera_aparicion": "Hunter x Hunter",
+        "anio": 1999,
+        "franquicia": "Hunter x Hunter",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg"
+    },
+    {
+        "id": 204,
+        "nombre": "Vegeta",
+        "edad": 29,
+        "primera_aparicion": "Dragon Ball Z",
+        "anio": 1989,
+        "franquicia": "Dragon Ball",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png"
+    },
+    {
+        "id": 205,
+        "nombre": "Guts",
+        "edad": 24,
+        "primera_aparicion": "Berserk",
+        "anio": 1989,
+        "franquicia": "Berserk",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png"
+    },
+    {
+        "id": 206,
+        "nombre": "Casca",
+        "edad": 21,
+        "primera_aparicion": "Berserk",
+        "anio": 1989,
+        "franquicia": "Berserk",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b423-AmVFCaJJOBsc.png"
+    },
+    {
+        "id": 207,
+        "nombre": "Griffith",
+        "edad": 21,
+        "primera_aparicion": "Berserk",
+        "anio": 1989,
+        "franquicia": "Berserk",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png"
+    },
+    {
+        "id": 208,
+        "nombre": "Loid Forger",
+        "edad": 35,
+        "primera_aparicion": "Spy x Family",
+        "anio": 2019,
+        "franquicia": "Spy x Family",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png"
+    },
+    {
+        "id": 209,
+        "nombre": "Yor Forger",
+        "edad": 27,
+        "primera_aparicion": "Spy x Family",
+        "anio": 2019,
+        "franquicia": "Spy x Family",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
+    },
+    {
+        "id": 210,
+        "nombre": "Arataka Reigen",
+        "edad": 28,
+        "primera_aparicion": "Mob Psycho 100",
+        "anio": 2012,
+        "franquicia": "Mob Psycho 100",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png"
+    },
+    {
+        "id": 211,
+        "nombre": "Saitama",
+        "edad": 25,
+        "primera_aparicion": "One Punch Man",
+        "anio": 2009,
+        "franquicia": "One Punch Man",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
+    },
+    {
+        "id": 212,
+        "nombre": "Genos",
+        "edad": 19,
+        "primera_aparicion": "One Punch Man",
+        "anio": 2012,
+        "franquicia": "One Punch Man",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+    },
+    {
+        "id": 213,
+        "nombre": "Tatsumaki",
+        "edad": 28,
+        "primera_aparicion": "One Punch Man",
+        "anio": 2012,
+        "franquicia": "One Punch Man",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+    },
+    {
+        "id": 214,
+        "nombre": "Fubuki",
+        "edad": 24,
+        "primera_aparicion": "One Punch Man",
+        "anio": 2012,
+        "franquicia": "One Punch Man",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+    },
+    {
+        "id": 215,
+        "nombre": "Endeavor",
+        "edad": 45,
+        "primera_aparicion": "My Hero Academia",
+        "anio": 2014,
+        "franquicia": "My Hero Academia",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126158-Wix9rh7unTDQ.png"
+    },
+    {
+        "id": 216,
+        "nombre": "All Might",
+        "edad": 49,
+        "primera_aparicion": "My Hero Academia",
+        "anio": 2014,
+        "franquicia": "My Hero Academia",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+    },
+    {
+        "id": 217,
+        "nombre": "Midnight",
+        "edad": 31,
+        "primera_aparicion": "My Hero Academia",
+        "anio": 2014,
+        "franquicia": "My Hero Academia",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n29113-GXxSkNjJ7XFe.jpg"
+    },
+    {
+        "id": 218,
+        "nombre": "Hawks",
+        "edad": 22,
+        "primera_aparicion": "My Hero Academia",
+        "anio": 2014,
+        "franquicia": "My Hero Academia",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128299-eMEsWazNXE56.png"
+    },
+    {
+        "id": 219,
+        "nombre": "Yami Sukehiro",
+        "edad": 28,
+        "primera_aparicion": "Black Clover",
+        "anio": 2015,
+        "franquicia": "Black Clover",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png"
+    },
+    {
+        "id": 220,
+        "nombre": "Vanessa Enoteca",
+        "edad": 25,
+        "primera_aparicion": "Black Clover",
+        "anio": 2015,
+        "franquicia": "Black Clover",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124436-dES6CtprlZNy.png"
+    },
+    {
+        "id": 221,
+        "nombre": "Gintoki Sakata",
+        "edad": 27,
+        "primera_aparicion": "Gintama",
+        "anio": 2004,
+        "franquicia": "Gintama",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b672-cP5VPriN67xJ.png"
+    },
+    {
+        "id": 222,
+        "nombre": "Vash the Stampede",
+        "edad": 26,
+        "primera_aparicion": "Trigun",
+        "anio": 1995,
+        "franquicia": "Trigun",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png"
+    },
+    {
+        "id": 223,
+        "nombre": "Nicholas D. Wolfwood",
+        "edad": 26,
+        "primera_aparicion": "Trigun",
+        "anio": 1995,
+        "franquicia": "Trigun",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b722-Ernx5wHAXugB.jpg"
+    },
+    {
+        "id": 224,
+        "nombre": "Sung Jin-woo",
+        "edad": 24,
+        "primera_aparicion": "Solo Leveling",
+        "anio": 2018,
+        "franquicia": "Solo Leveling",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+    },
+    {
+        "id": 225,
+        "nombre": "Cha Hae-In",
+        "edad": 24,
+        "primera_aparicion": "Solo Leveling",
+        "anio": 2018,
+        "franquicia": "Solo Leveling",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
+    },
+    {
+        "id": 226,
+        "nombre": "Gilgamesh",
+        "edad": 30,
+        "primera_aparicion": "Fate/stay night",
+        "anio": 2004,
+        "franquicia": "Fate",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/125fa4a2-f9db-488e-877c-71cac6eab174/dfqkbdp-4c055a74-a042-411c-8f09-8e2b46893f2b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMjVmYTRhMi1mOWRiLTQ4OGUtODc3Yy03MWNhYzZlYWIxNzQvZGZxa2JkcC00YzA1NWE3NC1hMDQyLTQxMWMtOGYwOS04ZTJiNDY4OTNmMmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.A08vzvaAReUNHNslu_Nhj_D4f84LFWHqIKx1VtBcsRQ"
+    },
+    {
+        "id": 227,
+        "nombre": "Archer (EMIYA)",
+        "edad": 32,
+        "primera_aparicion": "Fate/stay night",
+        "anio": 2004,
+        "franquicia": "Fate",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/00f39406-ea15-4816-a71f-48c412d96de6/dfaxgwp-43b87dfb-44bf-482b-8a4c-3bdff6fa2e4c.png/v1/fill/w_1280,h_1141/archer_emiya_render_1__by_wtfbooomsh_dfaxgwp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE0MSIsInBhdGgiOiIvZi8wMGYzOTQwNi1lYTE1LTQ4MTYtYTcxZi00OGM0MTJkOTZkZTYvZGZheGd3cC00M2I4N2RmYi00NGJmLTQ4MmItOGE0Yy0zYmRmZjZmYTJlNGMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ByFvLXQln_RD_hef8TR7VhmiiluS-m0RkeP1fRHQy8w"
+    },
+    {
+        "id": 228,
+        "nombre": "Scáthach",
+        "edad": 30,
+        "primera_aparicion": "Fate/Grand Order",
+        "anio": 2015,
+        "franquicia": "Fate",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
+    },
+    {
+        "id": 229,
+        "nombre": "Medusa (Rider)",
+        "edad": 28,
+        "primera_aparicion": "Fate/stay night",
+        "anio": 2004,
+        "franquicia": "Fate",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b502-Nc5U3ghTR7Gy.png"
+    },
+    {
+        "id": 230,
+        "nombre": "Cú Chulainn",
+        "edad": 25,
+        "primera_aparicion": "Fate/stay night",
+        "anio": 2004,
+        "franquicia": "Fate",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png"
+    },
+    {
+        "id": 231,
+        "nombre": "Harley Quinn",
+        "edad": 30,
+        "primera_aparicion": "Batman: The Animated Series",
+        "anio": 1992,
+        "franquicia": "DC Animated",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b182935-zn1WE3Om5exM.png"
+    },
+    {
+        "id": 232,
+        "nombre": "Catwoman",
+        "edad": 28,
+        "primera_aparicion": "Batman: The Animated Series",
+        "anio": 1992,
+        "franquicia": "DC Animated",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b182933-J5pv1fBXqD5M.jpg"
+    },
+    {
+        "id": 233,
+        "nombre": "Poison Ivy",
+        "edad": 29,
+        "primera_aparicion": "Batman: The Animated Series",
+        "anio": 1992,
+        "franquicia": "DC Animated",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b182942-D0J9vx9xZfu4.jpg"
+    },
+    {
+        "id": 234,
+        "nombre": "Leela",
+        "edad": 25,
+        "primera_aparicion": "Futurama",
+        "anio": 1999,
+        "franquicia": "Futurama",
+        "imagen": "https://i.pinimg.com/564x/56/28/bb/5628bb74c74ed6ac6251cb1bff357432.jpg"
+    },
+    {
+        "id": 235,
+        "nombre": "Jessica Rabbit",
+        "edad": 30,
+        "primera_aparicion": "Who Framed Roger Rabbit",
+        "anio": 1988,
+        "franquicia": "Cine animado",
+        "imagen": "https://static.wikia.nocookie.net/disneyypixar/images/8/8d/Jessica_Rabbit.png/revision/latest?cb=20191115234734&path-prefix=es"
+    },
+    {
+        "id": 236,
+        "nombre": "Megara",
+        "edad": 21,
+        "primera_aparicion": "Hercules",
+        "anio": 1997,
+        "franquicia": "Disney",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjS2kihpcg7vbqA4a4QcFydY3qaSpfCoSnnrXwf-2V0w&s=10"
+    },
+    {
+        "id": 237,
+        "nombre": "Esmeralda",
+        "edad": 20,
+        "primera_aparicion": "The Hunchback of Notre Dame",
+        "anio": 1996,
+        "franquicia": "Disney",
+        "imagen": "https://static.wikia.nocookie.net/disneyprincess/images/d/d5/1046_Sem_T%C3%ADtulo_20230220182430.png/revision/latest?cb=20230220183027"
+    },
+    {
+        "id": 238,
+        "nombre": "Elsa",
+        "edad": 21,
+        "primera_aparicion": "Frozen",
+        "anio": 2013,
+        "franquicia": "Disney",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLixRmj6NxDWTnHAevdYSiTbX49JYxHgzVH5-GyztcPQ&s=10"
+    },
+    {
+        "id": 239,
+        "nombre": "Tiana",
+        "edad": 19,
+        "primera_aparicion": "The Princess and the Frog",
+        "anio": 2009,
+        "franquicia": "Disney",
+        "imagen": "https://i.pinimg.com/736x/9f/4a/ec/9f4aece7fd6cf1d6f0455469b04a0bd1.jpg"
+    },
+    {
+        "id": 240,
+        "nombre": "Alastor",
+        "edad": 35,
+        "primera_aparicion": "Hazbin Hotel",
+        "anio": 2019,
+        "franquicia": "Hazbin Hotel",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a90e964-667a-4146-9728-3ef29fef9d8b/dfkqpt0-7c749706-104d-4b6e-9737-d74fccfa45fa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83YTkwZTk2NC02NjdhLTQxNDYtOTcyOC0zZWYyOWZlZjlkOGIvZGZrcXB0MC03Yzc0OTcwNi0xMDRkLTRiNmUtOTczNy1kNzRmY2NmYTQ1ZmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1ZxFv0LWwt--OdWtysfbjLtLVCw_nwC5i7neDWrgTwo"
+    },
+    {
+        "id": 241,
+        "nombre": "Angel Dust",
+        "edad": 30,
+        "primera_aparicion": "Hazbin Hotel",
+        "anio": 2019,
+        "franquicia": "Hazbin Hotel",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a90e964-667a-4146-9728-3ef29fef9d8b/dfkqpp1-2cb09d75-6144-4aeb-ac19-2553784fdddb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83YTkwZTk2NC02NjdhLTQxNDYtOTcyOC0zZWYyOWZlZjlkOGIvZGZrcXBwMS0yY2IwOWQ3NS02MTQ0LTRhZWItYWMxOS0yNTUzNzg0ZmRkZGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CKdJuYIIX4AP-rGfX7iDfq1yoXe06HHqJ35URHAZDeM"
+    },
+    {
+        "id": 242,
+        "nombre": "Lucifer Morningstar",
+        "edad": 40,
+        "primera_aparicion": "Hazbin Hotel",
+        "anio": 2024,
+        "franquicia": "Hazbin Hotel",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b82ba2b-aff7-44e6-9afe-a57a5c42014d/dl45op7-3aac135b-871c-4323-aab2-e9d5d88b68d2.png/v1/fill/w_1280,h_1689/lucifer_render_by_kingevan210_dl45op7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY4OSIsInBhdGgiOiIvZi8xYjgyYmEyYi1hZmY3LTQ0ZTYtOWFmZS1hNTdhNWM0MjAxNGQvZGw0NW9wNy0zYWFjMTM1Yi04NzFjLTQzMjMtYWFiMi1lOWQ1ZDg4YjY4ZDIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.m_iusYm8F71eU5w5Ekf1CVNemDlJVzZQXOJ9_sgcl9w"
+    },
+    {
+        "id": 243,
+        "nombre": "Stolas",
+        "edad": 40,
+        "primera_aparicion": "Helluva Boss",
+        "anio": 2019,
+        "franquicia": "Helluva Boss",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrHafEUTzX7sO1jqSsCXoZE56SxALhyICdnCv43DzmQ&s=10"
+    },
+    {
+        "id": 244,
+        "nombre": "Blitzo",
+        "edad": 32,
+        "primera_aparicion": "Helluva Boss",
+        "anio": 2019,
+        "franquicia": "Helluva Boss",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs5jjEkBT0l4eDdHm8Uw2OsrHcakUOSYYC6YLHLNl1w&s=10"
+    }
+]
