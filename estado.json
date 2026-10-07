@@ -1,1 +1,12 @@
-{"dia": 0, "personajes_usados": []}
+{
+    "dia": 1,
+    "personajes_usados": [
+        "182"
+    ],
+    "ultima_fecha": "2026-10-07",
+    "ultimo_mensaje": {
+        "id": "1557515580809019423",
+        "nombre": "Aki Hayakawa",
+        "dia": 1
+    }
+}
