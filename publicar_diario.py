@@ -138,7 +138,10 @@ def main():
     p = random.choice(disponibles)
     dia = estado.get("dia", 0) + 1
 
-    msg = api("POST", f"/channels/{CANAL_ID}/messages", json={"embeds": [crear_embed(p, dia)]})
+    msg = api("POST", f"/channels/{CANAL_ID}/messages", json={
+    "content": "<@&1557512513564975144>",
+    "embeds": [crear_embed(p, dia)]
+})
 
     # Guardar el estado apenas se publicó, antes de las reacciones
     estado["dia"] = dia
