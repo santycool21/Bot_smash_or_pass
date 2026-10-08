@@ -1,12 +1,13 @@
 {
-    "dia": 1,
+    "dia": 2,
     "personajes_usados": [
-        "182"
+        "182",
+        "8"
     ],
-    "ultima_fecha": "2026-10-07",
+    "ultima_fecha": "2026-10-08",
     "ultimo_mensaje": {
-        "id": "1557515580809019423",
-        "nombre": "Aki Hayakawa",
-        "dia": 1
+        "id": "1557788829790765059",
+        "nombre": "Jill Valentine",
+        "dia": 2
     }
 }
