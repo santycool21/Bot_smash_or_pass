@@ -1,13 +1,14 @@
 {
-    "dia": 2,
+    "dia": 3,
     "personajes_usados": [
         "182",
-        "8"
+        "8",
+        "49"
     ],
-    "ultima_fecha": "2026-10-08",
+    "ultima_fecha": "2026-10-09",
     "ultimo_mensaje": {
-        "id": "1557788829790765059",
-        "nombre": "Jill Valentine",
-        "dia": 2
+        "id": "1558132007924662397",
+        "nombre": "Fenris",
+        "dia": 3
     }
 }
