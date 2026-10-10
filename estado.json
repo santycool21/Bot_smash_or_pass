@@ -1,14 +1,15 @@
 {
-    "dia": 3,
+    "dia": 4,
     "personajes_usados": [
         "182",
         "8",
-        "49"
+        "49",
+        "96"
     ],
-    "ultima_fecha": "2026-10-09",
+    "ultima_fecha": "2026-10-10",
     "ultimo_mensaje": {
-        "id": "1558132007924662397",
-        "nombre": "Fenris",
-        "dia": 3
+        "id": "1558494388550639617",
+        "nombre": "D.Va",
+        "dia": 4
     }
 }
