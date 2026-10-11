@@ -1,15 +1,16 @@
 {
-    "dia": 4,
+    "dia": 5,
     "personajes_usados": [
         "182",
         "8",
         "49",
-        "96"
+        "96",
+        "113"
     ],
-    "ultima_fecha": "2026-10-10",
+    "ultima_fecha": "2026-10-11",
     "ultimo_mensaje": {
-        "id": "1558494388550639617",
-        "nombre": "D.Va",
-        "dia": 4
+        "id": "1558856785429790734",
+        "nombre": "Omen",
+        "dia": 5
     }
 }
