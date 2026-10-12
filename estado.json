@@ -1,16 +1,17 @@
 {
-    "dia": 5,
+    "dia": 6,
     "personajes_usados": [
         "182",
         "8",
         "49",
         "96",
-        "113"
+        "113",
+        "144"
     ],
-    "ultima_fecha": "2026-10-11",
+    "ultima_fecha": "2026-10-12",
     "ultimo_mensaje": {
-        "id": "1558856785429790734",
-        "nombre": "Omen",
-        "dia": 5
+        "id": "1559219166597218495",
+        "nombre": "Trevor Belmont",
+        "dia": 6
     }
 }
