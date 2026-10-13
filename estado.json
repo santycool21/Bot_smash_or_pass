@@ -1,17 +1,18 @@
 {
-    "dia": 6,
+    "dia": 7,
     "personajes_usados": [
         "182",
         "8",
         "49",
         "96",
         "113",
-        "144"
+        "144",
+        "50"
     ],
-    "ultima_fecha": "2026-10-12",
+    "ultima_fecha": "2026-10-13",
     "ultimo_mensaje": {
-        "id": "1559219166597218495",
-        "nombre": "Trevor Belmont",
-        "dia": 6
+        "id": "1559581569314726089",
+        "nombre": "Geralt de Rivia",
+        "dia": 7
     }
 }
