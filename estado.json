@@ -1,5 +1,5 @@
 {
-    "dia": 7,
+    "dia": 8,
     "personajes_usados": [
         "182",
         "8",
@@ -7,12 +7,13 @@
         "96",
         "113",
         "144",
-        "50"
+        "50",
+        "4"
     ],
-    "ultima_fecha": "2026-10-13",
+    "ultima_fecha": "2026-10-14",
     "ultimo_mensaje": {
-        "id": "1559581569314726089",
-        "nombre": "Geralt de Rivia",
-        "dia": 7
+        "id": "1559943951992229923",
+        "nombre": "Barret Wallace",
+        "dia": 8
     }
 }
