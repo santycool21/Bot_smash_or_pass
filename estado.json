@@ -1,5 +1,5 @@
 {
-    "dia": 8,
+    "dia": 9,
     "personajes_usados": [
         "182",
         "8",
@@ -8,12 +8,13 @@
         "113",
         "144",
         "50",
-        "4"
+        "4",
+        "185"
     ],
-    "ultima_fecha": "2026-10-14",
+    "ultima_fecha": "2026-10-15",
     "ultimo_mensaje": {
-        "id": "1559943951992229923",
-        "nombre": "Barret Wallace",
-        "dia": 8
+        "id": "1560306336594526391",
+        "nombre": "Tengen Uzui",
+        "dia": 9
     }
 }
