@@ -1,5 +1,5 @@
 {
-    "dia": 9,
+    "dia": 10,
     "personajes_usados": [
         "182",
         "8",
@@ -9,12 +9,13 @@
         "144",
         "50",
         "4",
-        "185"
+        "185",
+        "162"
     ],
-    "ultima_fecha": "2026-10-15",
+    "ultima_fecha": "2026-10-16",
     "ultimo_mensaje": {
-        "id": "1560306336594526391",
-        "nombre": "Tengen Uzui",
-        "dia": 9
+        "id": "1560668719611510888",
+        "nombre": "Nico Robin",
+        "dia": 10
     }
 }
