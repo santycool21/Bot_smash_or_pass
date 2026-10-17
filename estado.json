@@ -1,5 +1,5 @@
 {
-    "dia": 10,
+    "dia": 11,
     "personajes_usados": [
         "182",
         "8",
@@ -10,12 +10,13 @@
         "50",
         "4",
         "185",
-        "162"
+        "162",
+        "234"
     ],
-    "ultima_fecha": "2026-10-16",
+    "ultima_fecha": "2026-10-17",
     "ultimo_mensaje": {
-        "id": "1560668719611510888",
-        "nombre": "Nico Robin",
-        "dia": 10
+        "id": "1561031100984197165",
+        "nombre": "Leela",
+        "dia": 11
     }
 }
