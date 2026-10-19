@@ -1,5 +1,5 @@
 {
-    "dia": 12,
+    "dia": 13,
     "personajes_usados": [
         "182",
         "8",
@@ -12,12 +12,13 @@
         "185",
         "162",
         "234",
-        "215"
+        "215",
+        "29"
     ],
-    "ultima_fecha": "2026-10-18",
+    "ultima_fecha": "2026-10-19",
     "ultimo_mensaje": {
-        "id": "1561393486182224103",
-        "nombre": "Endeavor",
-        "dia": 12
+        "id": "1561755895573258272",
+        "nombre": "Ashley Graham",
+        "dia": 13
     }
 }
