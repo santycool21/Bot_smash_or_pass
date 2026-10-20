@@ -1,5 +1,5 @@
 {
-    "dia": 13,
+    "dia": 14,
     "personajes_usados": [
         "182",
         "8",
@@ -13,12 +13,13 @@
         "162",
         "234",
         "215",
-        "29"
+        "29",
+        "166"
     ],
-    "ultima_fecha": "2026-10-19",
+    "ultima_fecha": "2026-10-20",
     "ultimo_mensaje": {
-        "id": "1561755895573258272",
-        "nombre": "Ashley Graham",
-        "dia": 13
+        "id": "1562118276941881425",
+        "nombre": "Shanks",
+        "dia": 14
     }
 }
