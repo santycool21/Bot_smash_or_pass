@@ -1,5 +1,5 @@
 {
-    "dia": 14,
+    "dia": 15,
     "personajes_usados": [
         "182",
         "8",
@@ -14,12 +14,13 @@
         "234",
         "215",
         "29",
-        "166"
+        "166",
+        "52"
     ],
-    "ultima_fecha": "2026-10-20",
+    "ultima_fecha": "2026-10-21",
     "ultimo_mensaje": {
-        "id": "1562118276941881425",
-        "nombre": "Shanks",
-        "dia": 14
+        "id": "1562480670561927322",
+        "nombre": "Triss Merigold",
+        "dia": 15
     }
 }
