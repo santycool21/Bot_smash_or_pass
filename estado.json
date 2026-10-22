@@ -1,5 +1,5 @@
 {
-    "dia": 15,
+    "dia": 16,
     "personajes_usados": [
         "182",
         "8",
@@ -15,12 +15,13 @@
         "215",
         "29",
         "166",
-        "52"
+        "52",
+        "219"
     ],
-    "ultima_fecha": "2026-10-21",
+    "ultima_fecha": "2026-10-22",
     "ultimo_mensaje": {
-        "id": "1562480670561927322",
-        "nombre": "Triss Merigold",
-        "dia": 15
+        "id": "1562843058725457942",
+        "nombre": "Yami Sukehiro",
+        "dia": 16
     }
 }
