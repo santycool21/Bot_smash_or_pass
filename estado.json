@@ -1,5 +1,5 @@
 {
-    "dia": 16,
+    "dia": 17,
     "personajes_usados": [
         "182",
         "8",
@@ -16,12 +16,13 @@
         "29",
         "166",
         "52",
-        "219"
+        "219",
+        "74"
     ],
-    "ultima_fecha": "2026-10-22",
+    "ultima_fecha": "2026-10-23",
     "ultimo_mensaje": {
-        "id": "1562843058725457942",
-        "nombre": "Yami Sukehiro",
-        "dia": 16
+        "id": "1563205436629450753",
+        "nombre": "Jamie Siu",
+        "dia": 17
     }
 }
