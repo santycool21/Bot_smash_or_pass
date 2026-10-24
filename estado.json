@@ -1,5 +1,5 @@
 {
-    "dia": 17,
+    "dia": 18,
     "personajes_usados": [
         "182",
         "8",
@@ -17,12 +17,13 @@
         "166",
         "52",
         "219",
-        "74"
+        "74",
+        "232"
     ],
-    "ultima_fecha": "2026-10-23",
+    "ultima_fecha": "2026-10-24",
     "ultimo_mensaje": {
-        "id": "1563205436629450753",
-        "nombre": "Jamie Siu",
-        "dia": 17
+        "id": "1563567822473535672",
+        "nombre": "Catwoman",
+        "dia": 18
     }
 }
