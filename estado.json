@@ -1,5 +1,5 @@
 {
-    "dia": 18,
+    "dia": 19,
     "personajes_usados": [
         "182",
         "8",
@@ -18,12 +18,13 @@
         "52",
         "219",
         "74",
-        "232"
+        "232",
+        "81"
     ],
-    "ultima_fecha": "2026-10-24",
+    "ultima_fecha": "2026-10-25",
     "ultimo_mensaje": {
-        "id": "1563567822473535672",
-        "nombre": "Catwoman",
-        "dia": 18
+        "id": "1563930214860591295",
+        "nombre": "Lei Wulong",
+        "dia": 19
     }
 }
