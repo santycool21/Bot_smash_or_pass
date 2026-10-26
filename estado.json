@@ -1,5 +1,5 @@
 {
-    "dia": 19,
+    "dia": 20,
     "personajes_usados": [
         "182",
         "8",
@@ -19,12 +19,13 @@
         "219",
         "74",
         "232",
-        "81"
+        "81",
+        "145"
     ],
-    "ultima_fecha": "2026-10-25",
+    "ultima_fecha": "2026-10-26",
     "ultimo_mensaje": {
-        "id": "1563930214860591295",
-        "nombre": "Lei Wulong",
-        "dia": 19
+        "id": "1564292621747355660",
+        "nombre": "Cynthia",
+        "dia": 20
     }
 }
