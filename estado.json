@@ -1,5 +1,5 @@
 {
-    "dia": 20,
+    "dia": 21,
     "personajes_usados": [
         "182",
         "8",
@@ -20,12 +20,13 @@
         "74",
         "232",
         "81",
-        "145"
+        "145",
+        "201"
     ],
-    "ultima_fecha": "2026-10-26",
+    "ultima_fecha": "2026-10-27",
     "ultimo_mensaje": {
-        "id": "1564292621747355660",
-        "nombre": "Cynthia",
-        "dia": 20
+        "id": "1564654996237193360",
+        "nombre": "Ryoji Kaji",
+        "dia": 21
     }
 }
