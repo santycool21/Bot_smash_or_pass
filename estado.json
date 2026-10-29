@@ -1,5 +1,5 @@
 {
-    "dia": 22,
+    "dia": 23,
     "personajes_usados": [
         "182",
         "8",
@@ -22,12 +22,13 @@
         "81",
         "145",
         "201",
-        "18"
+        "18",
+        "199"
     ],
-    "ultima_fecha": "2026-10-28",
+    "ultima_fecha": "2026-10-29",
     "ultimo_mensaje": {
-        "id": "1565017419179892938",
-        "nombre": "Auron",
-        "dia": 22
+        "id": "1565379784811352155",
+        "nombre": "Misato Katsuragi",
+        "dia": 23
     }
 }
