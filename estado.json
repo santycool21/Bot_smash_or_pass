@@ -1,5 +1,5 @@
 {
-    "dia": 23,
+    "dia": 24,
     "personajes_usados": [
         "182",
         "8",
@@ -23,12 +23,13 @@
         "145",
         "201",
         "18",
-        "199"
+        "199",
+        "152"
     ],
-    "ultima_fecha": "2026-10-29",
+    "ultima_fecha": "2026-10-30",
     "ultimo_mensaje": {
-        "id": "1565379784811352155",
-        "nombre": "Misato Katsuragi",
-        "dia": 23
+        "id": "1565742164347060287",
+        "nombre": "Itachi Uchiha",
+        "dia": 24
     }
 }
