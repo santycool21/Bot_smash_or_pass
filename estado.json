@@ -1,5 +1,5 @@
 {
-    "dia": 24,
+    "dia": 25,
     "personajes_usados": [
         "182",
         "8",
@@ -24,12 +24,13 @@
         "201",
         "18",
         "199",
-        "152"
+        "152",
+        "80"
     ],
-    "ultima_fecha": "2026-10-30",
+    "ultima_fecha": "2026-10-31",
     "ultimo_mensaje": {
-        "id": "1565742164347060287",
-        "nombre": "Itachi Uchiha",
-        "dia": 24
+        "id": "1566104539260649724",
+        "nombre": "Jin Kazama",
+        "dia": 25
     }
 }
