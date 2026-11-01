@@ -1,5 +1,5 @@
 {
-    "dia": 25,
+    "dia": 26,
     "personajes_usados": [
         "182",
         "8",
@@ -25,12 +25,13 @@
         "18",
         "199",
         "152",
-        "80"
+        "80",
+        "41"
     ],
-    "ultima_fecha": "2026-10-31",
+    "ultima_fecha": "2026-11-01",
     "ultimo_mensaje": {
-        "id": "1566104539260649724",
-        "nombre": "Jin Kazama",
-        "dia": 25
+        "id": "1566466923196321874",
+        "nombre": "Liara T'Soni",
+        "dia": 26
     }
 }
