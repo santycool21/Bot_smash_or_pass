@@ -1,5 +1,5 @@
 {
-    "dia": 26,
+    "dia": 27,
     "personajes_usados": [
         "182",
         "8",
@@ -26,12 +26,13 @@
         "199",
         "152",
         "80",
-        "41"
+        "41",
+        "17"
     ],
-    "ultima_fecha": "2026-11-01",
+    "ultima_fecha": "2026-11-02",
     "ultimo_mensaje": {
-        "id": "1566466923196321874",
-        "nombre": "Liara T'Soni",
-        "dia": 26
+        "id": "1566829326882709555",
+        "nombre": "Lulu",
+        "dia": 27
     }
 }
