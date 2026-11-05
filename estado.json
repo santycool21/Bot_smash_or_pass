@@ -1,5 +1,5 @@
 {
-    "dia": 29,
+    "dia": 30,
     "personajes_usados": [
         "182",
         "8",
@@ -29,12 +29,13 @@
         "41",
         "17",
         "120",
-        "148"
+        "148",
+        "28"
     ],
-    "ultima_fecha": "2026-11-04",
+    "ultima_fecha": "2026-11-05",
     "ultimo_mensaje": {
-        "id": "1567554130069688484",
-        "nombre": "Lance",
-        "dia": 29
+        "id": "1567916482317389936",
+        "nombre": "Sheva Alomar",
+        "dia": 30
     }
 }
