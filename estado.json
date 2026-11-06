@@ -1,5 +1,5 @@
 {
-    "dia": 30,
+    "dia": 31,
     "personajes_usados": [
         "182",
         "8",
@@ -30,12 +30,13 @@
         "17",
         "120",
         "148",
-        "28"
+        "28",
+        "209"
     ],
-    "ultima_fecha": "2026-11-05",
+    "ultima_fecha": "2026-11-06",
     "ultimo_mensaje": {
-        "id": "1567916482317389936",
-        "nombre": "Sheva Alomar",
-        "dia": 30
+        "id": "1568278874091950242",
+        "nombre": "Yor Forger",
+        "dia": 31
     }
 }
