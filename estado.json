@@ -1,5 +1,5 @@
 {
-    "dia": 31,
+    "dia": 32,
     "personajes_usados": [
         "182",
         "8",
@@ -31,12 +31,13 @@
         "120",
         "148",
         "28",
-        "209"
+        "209",
+        "69"
     ],
-    "ultima_fecha": "2026-11-06",
+    "ultima_fecha": "2026-11-07",
     "ultimo_mensaje": {
-        "id": "1568278874091950242",
-        "nombre": "Yor Forger",
-        "dia": 31
+        "id": "1568641256433786894",
+        "nombre": "Cammy White",
+        "dia": 32
     }
 }
