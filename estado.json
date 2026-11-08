@@ -1,5 +1,5 @@
 {
-    "dia": 32,
+    "dia": 33,
     "personajes_usados": [
         "182",
         "8",
@@ -32,12 +32,13 @@
         "148",
         "28",
         "209",
-        "69"
+        "69",
+        "93"
     ],
-    "ultima_fecha": "2026-11-07",
+    "ultima_fecha": "2026-11-08",
     "ultimo_mensaje": {
-        "id": "1568641256433786894",
-        "nombre": "Cammy White",
-        "dia": 32
+        "id": "1569003637865320651",
+        "nombre": "Tracer",
+        "dia": 33
     }
 }
