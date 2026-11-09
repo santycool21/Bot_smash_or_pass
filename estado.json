@@ -1,5 +1,5 @@
 {
-    "dia": 33,
+    "dia": 34,
     "personajes_usados": [
         "182",
         "8",
@@ -33,12 +33,13 @@
         "28",
         "209",
         "69",
-        "93"
+        "93",
+        "183"
     ],
-    "ultima_fecha": "2026-11-08",
+    "ultima_fecha": "2026-11-09",
     "ultimo_mensaje": {
-        "id": "1569003637865320651",
-        "nombre": "Tracer",
-        "dia": 33
+        "id": "1569366036594032801",
+        "nombre": "Kyojuro Rengoku",
+        "dia": 34
     }
 }
