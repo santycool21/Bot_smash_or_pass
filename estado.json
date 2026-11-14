@@ -1,5 +1,5 @@
 {
-    "dia": 38,
+    "dia": 39,
     "personajes_usados": [
         "182",
         "8",
@@ -38,12 +38,13 @@
         "102",
         "27",
         "95",
-        "72"
+        "72",
+        "170"
     ],
-    "ultima_fecha": "2026-11-13",
+    "ultima_fecha": "2026-11-14",
     "ultimo_mensaje": {
-        "id": "1570815585309171715",
-        "nombre": "Zangief",
-        "dia": 38
+        "id": "1571177959371440219",
+        "nombre": "Rangiku Matsumoto",
+        "dia": 39
     }
 }
