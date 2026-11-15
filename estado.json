@@ -1,5 +1,5 @@
 {
-    "dia": 39,
+    "dia": 40,
     "personajes_usados": [
         "182",
         "8",
@@ -39,12 +39,13 @@
         "27",
         "95",
         "72",
-        "170"
+        "170",
+        "20"
     ],
-    "ultima_fecha": "2026-11-14",
+    "ultima_fecha": "2026-11-15",
     "ultimo_mensaje": {
-        "id": "1571177959371440219",
-        "nombre": "Rangiku Matsumoto",
-        "dia": 39
+        "id": "1571540356078505986",
+        "nombre": "Balthier",
+        "dia": 40
     }
 }
