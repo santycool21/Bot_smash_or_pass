@@ -1,5 +1,5 @@
 {
-    "dia": 40,
+    "dia": 41,
     "personajes_usados": [
         "182",
         "8",
@@ -40,12 +40,13 @@
         "95",
         "72",
         "170",
-        "20"
+        "20",
+        "178"
     ],
-    "ultima_fecha": "2026-11-15",
+    "ultima_fecha": "2026-11-16",
     "ultimo_mensaje": {
-        "id": "1571540356078505986",
-        "nombre": "Balthier",
-        "dia": 40
+        "id": "1571902747337424980",
+        "nombre": "Suguru Geto",
+        "dia": 41
     }
 }
