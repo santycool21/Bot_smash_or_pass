@@ -1,5 +1,5 @@
 {
-    "dia": 41,
+    "dia": 42,
     "personajes_usados": [
         "182",
         "8",
@@ -41,12 +41,13 @@
         "72",
         "170",
         "20",
-        "178"
+        "178",
+        "154"
     ],
-    "ultima_fecha": "2026-11-16",
+    "ultima_fecha": "2026-11-17",
     "ultimo_mensaje": {
-        "id": "1571902747337424980",
-        "nombre": "Suguru Geto",
-        "dia": 41
+        "id": "1572265148490449029",
+        "nombre": "Jiraiya",
+        "dia": 42
     }
 }
