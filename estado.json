@@ -1,5 +1,5 @@
 {
-    "dia": 42,
+    "dia": 43,
     "personajes_usados": [
         "182",
         "8",
@@ -42,12 +42,13 @@
         "170",
         "20",
         "178",
-        "154"
+        "154",
+        "121"
     ],
-    "ultima_fecha": "2026-11-17",
+    "ultima_fecha": "2026-11-18",
     "ultimo_mensaje": {
-        "id": "1572265148490449029",
-        "nombre": "Jiraiya",
-        "dia": 42
+        "id": "1572627542572138660",
+        "nombre": "Valkyrie",
+        "dia": 43
     }
 }
