@@ -1,5 +1,5 @@
 {
-    "dia": 43,
+    "dia": 44,
     "personajes_usados": [
         "182",
         "8",
@@ -43,12 +43,13 @@
         "20",
         "178",
         "154",
-        "121"
+        "121",
+        "189"
     ],
-    "ultima_fecha": "2026-11-18",
+    "ultima_fecha": "2026-11-19",
     "ultimo_mensaje": {
-        "id": "1572627542572138660",
-        "nombre": "Valkyrie",
-        "dia": 43
+        "id": "1572989942554951891",
+        "nombre": "Reiner Braun",
+        "dia": 44
     }
 }
