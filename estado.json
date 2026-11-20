@@ -1,5 +1,5 @@
 {
-    "dia": 44,
+    "dia": 45,
     "personajes_usados": [
         "182",
         "8",
@@ -44,12 +44,13 @@
         "178",
         "154",
         "121",
-        "189"
+        "189",
+        "112"
     ],
-    "ultima_fecha": "2026-11-19",
+    "ultima_fecha": "2026-11-20",
     "ultimo_mensaje": {
-        "id": "1572989942554951891",
-        "nombre": "Reiner Braun",
-        "dia": 44
+        "id": "1573352324523491360",
+        "nombre": "Phoenix",
+        "dia": 45
     }
 }
