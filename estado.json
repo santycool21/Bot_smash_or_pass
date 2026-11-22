@@ -1,5 +1,5 @@
 {
-    "dia": 46,
+    "dia": 47,
     "personajes_usados": [
         "182",
         "8",
@@ -46,12 +46,13 @@
         "121",
         "189",
         "112",
-        "7"
+        "7",
+        "39"
     ],
-    "ultima_fecha": "2026-11-21",
+    "ultima_fecha": "2026-11-22",
     "ultimo_mensaje": {
-        "id": "1573714691958513775",
-        "nombre": "Leon S. Kennedy",
-        "dia": 46
+        "id": "1574077093019394180",
+        "nombre": "Quiet",
+        "dia": 47
     }
 }
