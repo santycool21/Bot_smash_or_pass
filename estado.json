@@ -1,5 +1,5 @@
 {
-    "dia": 48,
+    "dia": 49,
     "personajes_usados": [
         "182",
         "8",
@@ -48,12 +48,13 @@
         "112",
         "7",
         "39",
-        "159"
+        "159",
+        "117"
     ],
-    "ultima_fecha": "2026-11-23",
+    "ultima_fecha": "2026-11-24",
     "ultimo_mensaje": {
-        "id": "1574439465584296059",
-        "nombre": "Mei Terumi",
-        "dia": 48
+        "id": "1574801880645636157",
+        "nombre": "Lifeline",
+        "dia": 49
     }
 }
