@@ -1,5 +1,5 @@
 {
-    "dia": 49,
+    "dia": 50,
     "personajes_usados": [
         "182",
         "8",
@@ -49,12 +49,13 @@
         "7",
         "39",
         "159",
-        "117"
+        "117",
+        "21"
     ],
-    "ultima_fecha": "2026-11-24",
+    "ultima_fecha": "2026-11-25",
     "ultimo_mensaje": {
-        "id": "1574801880645636157",
-        "nombre": "Lifeline",
-        "dia": 49
+        "id": "1575164256859586761",
+        "nombre": "Noctis Lucis Caelum",
+        "dia": 50
     }
 }
