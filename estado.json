@@ -1,5 +1,5 @@
 {
-    "dia": 50,
+    "dia": 51,
     "personajes_usados": [
         "182",
         "8",
@@ -50,12 +50,13 @@
         "39",
         "159",
         "117",
-        "21"
+        "21",
+        "61"
     ],
-    "ultima_fecha": "2026-11-25",
+    "ultima_fecha": "2026-11-26",
     "ultimo_mensaje": {
-        "id": "1575164256859586761",
-        "nombre": "Noctis Lucis Caelum",
-        "dia": 50
+        "id": "1575526639603814543",
+        "nombre": "Lae'zel",
+        "dia": 51
     }
 }
