@@ -1,5 +1,5 @@
 {
-    "dia": 51,
+    "dia": 52,
     "personajes_usados": [
         "182",
         "8",
@@ -51,12 +51,13 @@
         "159",
         "117",
         "21",
-        "61"
+        "61",
+        "192"
     ],
-    "ultima_fecha": "2026-11-26",
+    "ultima_fecha": "2026-11-27",
     "ultimo_mensaje": {
-        "id": "1575526639603814543",
-        "nombre": "Lae'zel",
-        "dia": 51
+        "id": "1575889056880009238",
+        "nombre": "Olivier Armstrong",
+        "dia": 52
     }
 }
